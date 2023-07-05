@@ -30,22 +30,25 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Human Factors and Applied Cognition
+    - course: PhD in Human Factors and Applied Cognition, 2024
       institution: George Mason University
-      year: 2024
-    - course: MA in Human Factors and Applied Cognition
+      year: 
+    - course: MA in Human Factors and Applied Cognition, 2022
       institution: George Mason University
-      year: 2022
-    - course: MS in Psychology
+      year: 
+    - course: MS in Psychology, 2020
       institution: University of Otago
-      year: 2020
+      year: 
+    - course: BS(Hons) in Psychology, 2018
+      institution: University of Otago
+      year: 
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Kettle
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Liam
+email: "lkettle@gmu.edu"
 ---
 Liam Kettle is a PhD Candidate in the Human Factors and Applied Cognition PhD Program at George Mason University
 {style="text-align: justify;"}
