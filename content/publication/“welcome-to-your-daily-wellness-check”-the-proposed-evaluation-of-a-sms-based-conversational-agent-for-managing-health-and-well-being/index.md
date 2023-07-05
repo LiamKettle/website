@@ -8,6 +8,7 @@ authors:
   - L.
   - "& Lee"
   - Y-C.
+publication: Human Factors
 abstract: University students tend to sacrifice healthy lifestyles in favor of
   academic and financial gain. Additionally, the COVID-19 pandemic has led to
   online schooling and reduced access to healthcare resources. To mitigate these
