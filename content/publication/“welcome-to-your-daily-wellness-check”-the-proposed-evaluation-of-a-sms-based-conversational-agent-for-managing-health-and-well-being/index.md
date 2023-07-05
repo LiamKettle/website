@@ -8,7 +8,8 @@ authors:
   - L.
   - "& Lee"
   - Y-C.
-publication: Human Factors
+publication: In Proceedings of the 65th Human Factors and Ergonomics Society
+  International Annual Meeting.
 abstract: University students tend to sacrifice healthy lifestyles in favor of
   academic and financial gain. Additionally, the COVID-19 pandemic has led to
   online schooling and reduced access to healthcare resources. To mitigate these
