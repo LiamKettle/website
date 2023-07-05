@@ -22,7 +22,7 @@ slides: example
 publication_types:
   - "2"
 authors:
-  - Liam Kettle & Yi-Ching Lee
+  - **Kettle, L.,** & Lee, Y-C.
 author_notes: []
 publication: "Human Factors"
 summary: ""
@@ -31,11 +31,13 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: User Experiences of Well-being Chatbots.
+title: User Experiences of Well-being Chatbots
 doi: 10.1177/00187208231162453
 featured: false
 tags:
-  - Source Themes
+  - UX
+  - Mental health
+  - Chatbot
 projects: []
 image:
   caption: ""
