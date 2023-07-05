@@ -7,21 +7,24 @@ abstract: >-
 
   **Background:** Students transitioning into university life take on greater responsibility, yet tend to sacrifice healthy behaviors to strive for academic and financial gain. Additionally, students faced an unprecedented pandemic, leading to remote courses and reduced access to healthcare services. One tool designed to improve healthcare accessibility is well-being CAs. CAs have addressed mental health support in the general population but have yet to address physical well-being support and accessibility to those in disadvantaged socio-economic backgrounds where healthcare access is further limited.
 
+
   **Method:** Study One comprised a thematic analysis of mental health applications featuring CAs from the public forum, Reddit. Study Two explored emerging usability themes of an SMS-based CA designed to improve accessibility to well-being services alongside a commercially available CA, Woebot.
+
 
   **Results:** Study One identified several themes, including accessibility and availability, communication style, and anthropomorphism as important features. Study Two identified themes such as user response modality, perceived CA role, question specificity, and conversation flow control as critical for user engagement.
 
+
   **Conclusion:** Various themes emerged from individuals’ experiences regarding CA features, functionality, and responses. The mixed experiences relevant to the communication and conversational styles between the CA and the user suggest varied motivations for using CAs for mental and physical well-being.
+
 
   **Application:** Practical recommendations to encourage continued use include providing dynamic response modalities, anthropomorphizing the chatbot, and calibrating expectations early.
 slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - admin & Yi-Ching Lee
+  - **Liam Kettle** & Yi-Ching Lee
 author_notes: []
-publication: "*Human Factors"
+publication: "Human Factors"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -29,7 +32,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: User Experiences of Well-being Chatbots.
-doi: https://doi.org/10.1177/00187208231162453
+doi: 10.1177/00187208231162453
 featured: false
 tags:
   - Source Themes
@@ -38,9 +41,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2023-03-14T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2023-03-14T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 ---
