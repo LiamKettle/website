@@ -100,12 +100,19 @@ renders as
   - Extracurricular
     - [Resume Writing in R](https://github.com/LiamKettle/resume)
     - [LinkedIn Community](https://www.linkedin.com/in/liam-kettle/)
-    - [Reading](https://quantuxbook.com/)
+    - Reading
+      - [Quant UX Research](https://quantuxbook.com/)
+      - Quantifying the User Research
+      - R for market analysis
   - PhD
     - Publications
     - Research
     - Presenting
     - `statistics`
+      - Data Wrangling
+      - Tidyverse
+      - ANOVA
+      - Regression
 ```
 
 ### Charts
