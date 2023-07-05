@@ -71,23 +71,16 @@ A more advanced mindmap with formatting, code blocks, and math:
 <pre class="chroma">
 <code>
 ```markmap
-- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- Timeline
+  - Extracurricular
+    - [Resume Writing in R](https://github.com/LiamKettle/resume)
+    - [LinkedIn Community](https://www.linkedin.com/in/liam-kettle/)
+    - [Reading](https://quantuxbook.com/)
+  - PhD
+    - Publications
+    - Research
+    - Presenting
+    - `statistics`
 ```
 </code>
 </pre>
@@ -96,23 +89,16 @@ A more advanced mindmap with formatting, code blocks, and math:
 renders as
 
 ```markmap
-- Mindmaps
-  - Links
-    - [Wowchemy Docs](https://wowchemy.com/docs/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+- Timeline
+  - Extracurricular
+    - [Resume Writing in R](https://github.com/LiamKettle/resume)
+    - [LinkedIn Community](https://www.linkedin.com/in/liam-kettle/)
+    - [Reading](https://quantuxbook.com/)
+  - PhD
+    - Publications
+    - Research
+    - Presenting
+    - `statistics`
 ```
 
 ### Charts
