@@ -19,8 +19,7 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - admin
-  - "&Yi-Ching Lee"
+  - admin &Yi-Ching Lee
 author_notes: []
 publication: "*Human Factors"
 summary: ""
