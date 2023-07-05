@@ -8,3 +8,20 @@ jsconfig.json
 node_modules/
 go.sum
 .hugo_build.lock
+
+#R
+# History files
+*.Rhistory
+*.Rapp.history
+
+# Session Data files
+*.RData
+*.RDataTmp
+
+# User-specific files
+*.Ruserdata
+
+# RStudio files
+*.Rproj.user
+*.Rproj
+.Rproj.user
