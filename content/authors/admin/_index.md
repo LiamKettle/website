@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: lkettle@gmu.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xIH4Ww8AAAAJ&hl=en
@@ -24,7 +24,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: George Mason University
-    url: ""
+    url: lkettle@gmu.edu
 education:
   courses:
     - course: PhD in Human Factors and Applied Cognition, 2024
@@ -42,7 +42,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Kettle
+last_name: KettleTest
 highlight_name: true
 first_name: Liam
 email: lkettle@gmu.edu
