@@ -1,76 +1,49 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+abstract: >-
+  Objective: The current paper conducted two parallel studies to explore user
+  experiences of well-being conversational agents (CAs) and identify important
+  features for engagement.
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+  Background: Students transitioning into university life take on greater responsibility, yet tend to sacrifice healthy behaviors to strive for academic and financial gain. Additionally, students faced an unprecedented pandemic, leading to remote courses and reduced access to healthcare services. One tool designed to improve healthcare accessibility is well-being CAs. CAs have addressed mental health support in the general population but have yet to address physical well-being support and accessibility to those in disadvantaged socio-economic backgrounds where healthcare access is further limited.
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+  Method: Study One comprised a thematic analysis of mental health applications featuring CAs from the public forum, Reddit. Study Two explored emerging usability themes of an SMS-based CA designed to improve accessibility to well-being services alongside a commercially available CA, Woebot.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+  Results: Study One identified several themes, including accessibility and availability, communication style, and anthropomorphism as important features. Study Two identified themes such as user response modality, perceived CA role, question specificity, and conversation flow control as critical for user engagement.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+  Conclusion: Various themes emerged from individuals’ experiences regarding CA features, functionality, and responses. The mixed experiences relevant to the communication and conversational styles between the CA and the user suggest varied motivations for using CAs for mental and physical well-being.
 
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+  Application: Practical recommendations to encourage continued use include providing dynamic response modalities, anthropomorphizing the chatbot, and calibrating expectations early.
+slides: example
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "2"
+authors:
+  - Kettle
+  - L.
+  - "& Lee"
+  - Y-C.
+author_notes: []
+publication: "*Human Factors"
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: User Experiences of Well-being Chatbots.
+doi: ""
+featured: false
+tags:
+  - Source Themes
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
