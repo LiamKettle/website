@@ -1,7 +1,7 @@
 ---
 title: Liam Kettle
 role: PhD Candidate
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include X,Y,Z
 interests: []
 social:
