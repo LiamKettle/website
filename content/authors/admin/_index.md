@@ -3,10 +3,7 @@ title: Liam Kettle
 role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include X,Y,Z
-interests:
-  - Augmented Reality
-  - Surface Transportation
-  - AI Chatbots
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
