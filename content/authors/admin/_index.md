@@ -1,7 +1,7 @@
 ---
 title: Liam Kettle
 role: PhD Candidate
-avatar_filename: ""
+avatar_filename: display-picture.jpg
 bio: My research interests include X,Y,Z
 interests:
   - Augmented Reality
