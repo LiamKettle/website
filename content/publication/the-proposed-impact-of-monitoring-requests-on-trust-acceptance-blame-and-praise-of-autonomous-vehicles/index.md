@@ -9,6 +9,8 @@ authors:
   - L.
   - "& Lee"
   - Y-C.
+publication: " In Proceedings of the 66th Human Factors and Ergonomics Society
+  International Annual Meeting."
 abstract: Vehicles with autonomous features are more prevalent in today’s
   society, though as the level of autonomation increases, so does the vehicle
   system’s control of the vehicle. As the driving control shifts from human to
