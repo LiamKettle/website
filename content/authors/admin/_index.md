@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: lkettle@gmu.edu
+    link: mailto:lkettle@gmu.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=xIH4Ww8AAAAJ&hl=en
@@ -42,7 +42,7 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: KettleTest
+last_name: Kettle
 highlight_name: true
 first_name: Liam
 email: lkettle@gmu.edu
