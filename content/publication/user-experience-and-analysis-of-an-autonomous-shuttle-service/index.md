@@ -3,20 +3,7 @@ title: User Experience and Analysis of an Autonomous Shuttle Service
 publication_types:
   - "0"
 authors:
-  - Andersson
-  - L.
-  - Ayala
-  - A.
-  - Chan
-  - S.
-  - Hickerson
-  - K.
-  - Kettle
-  - L.
-  - Malcein
-  - L.
-  - "& Lee"
-  - Y-C.
+  - Andersson, L., Ayala, A., Chan, S., Hickerson, K., Kettle, L., Malcein, L., & Lee, Y-C.
 publication: In Proceedings of the 7th International Conference on Vehicle
   Technology and Intelligent Transport Systems.
 abstract: As the use of autonomous vehicles for public transportation becomes
@@ -39,5 +26,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-07-05T23:13:03.000Z
+date: 2021-01-05T23:13:03.000Z
 ---
