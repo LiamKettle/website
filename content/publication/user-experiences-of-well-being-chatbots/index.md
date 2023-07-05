@@ -22,7 +22,7 @@ slides: example
 publication_types:
   - "2"
 authors:
-  - **Kettle, L.,** & Lee, Y-C.
+  - Kettle, L., & Lee, Y-C.
 author_notes: []
 publication: "Human Factors"
 summary: ""
