@@ -37,5 +37,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: I conducted this project to explore specific driving-related features
+  that individuals desire to be communicated to them while operating an
+  autonomous vehicle. An initial framework for traffic-light-related events will
+  be presented at the 67th Human Factors and Ergonomics Society Conference.
 date: 2023-10-05T23:16:52.983Z
 ---
