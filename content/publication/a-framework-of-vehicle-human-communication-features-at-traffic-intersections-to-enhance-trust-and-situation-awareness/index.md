@@ -32,7 +32,7 @@ abstract: Vehicle manufacturers are advancing their automated driving system
   relevant information to enhance drivers’ attitudes, awareness, and safety
   while operating ADS-equipped vehicles.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
