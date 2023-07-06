@@ -3,9 +3,9 @@ title: Moderation Analysis of Gender in Social Robot Interactions
 publication_types:
   - "1"
 authors:
-  - Kettle, L.
-  - Melles, L.
-  - Simpson, K.
+  - Liam Kettle
+  - Lydia Melles
+  - Kassidy Simpson
 publication: In Proceedings of the 66th Human Factors and Ergonomics Society
   International Annual Meeting.
 abstract: The current study aimed to further analyze Schadenberg et al.’s (2021)

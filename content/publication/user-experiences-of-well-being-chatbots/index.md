@@ -22,8 +22,8 @@ slides: example
 publication_types:
   - "2"
 authors:
-  - Kettle, L.
-  - Lee, Y-C.
+  - Liam Kettle
+  - Yi-Ching Lee
 author_notes: []
 publication: "Human Factors"
 summary: ""

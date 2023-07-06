@@ -3,13 +3,13 @@ title: User Experience and Analysis of an Autonomous Shuttle Service
 publication_types:
   - "0"
 authors:
-  - Andersson, L.
-  - Ayala, A.
-  - Chan, S.
-  - Hickerson, K.
-  - Kettle, L.
-  - Malcein, L.
-  - Lee, Y-C.
+  - Lova Andersson
+  - Allegra Ayala
+  - Shaun Chan
+  - Kyle Hickerson
+  - Liam Kettle
+  - Lindsey Malcein
+  - Yi-Ching Lee
 publication: In Proceedings of the 7th International Conference on Vehicle
   Technology and Intelligent Transport Systems.
 abstract: As the use of autonomous vehicles for public transportation becomes

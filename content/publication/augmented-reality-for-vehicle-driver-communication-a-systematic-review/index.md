@@ -3,10 +3,8 @@ title: "Augmented Reality for Vehicle-Driver Communication: A Systematic Review"
 publication_types:
   - "2"
 authors:
-  - Kettle
-  - L.
-  - "& Lee"
-  - Y-C.
+  - Liam Kettle
+  - Yi-Ching Lee
 publication: Safety
 abstract: Capabilities for automated driving system (ADS)-equipped vehicles have
   been expanding over the past decade. Research has explored integrating

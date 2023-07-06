@@ -5,8 +5,8 @@ publication_types:
   - "0"
   - "1"
 authors:
-  - Kettle, L.
-  - Lee, Y-C.
+  - Liam Kettle
+  - Yi-Ching Lee
 publication: " In Proceedings of the 66th Human Factors and Ergonomics Society
   International Annual Meeting."
 abstract: Vehicles with autonomous features are more prevalent in today’s
