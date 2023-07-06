@@ -2,10 +2,9 @@
 title: The Proposed Impact of Monitoring Requests on Trust, Acceptance, Blame,
   and Praise of Autonomous Vehicles
 publication_types:
-  - "0"
   - "1"
 authors:
-  - Liam Kettle
+  - admin
   - Yi-Ching Lee
 publication: " In Proceedings of the 66th Human Factors and Ergonomics Society
   International Annual Meeting."
