@@ -116,7 +116,8 @@ sections:
   - block: collection
     content:
       title: Select Publications
-      text: |-
+      count: 3
+      # text: |-
       filters:
         folders:
           - publication
