@@ -4,15 +4,11 @@ title: A Framework of Vehicle-Human Communication Features at Traffic
 publication_types:
   - "1"
 authors:
-  - Kettle
-  - L.Herrera
-  - K.M.G.
-  - Pithayarungsarit
-  - P.
-  - Simpson
-  - K.L.
-  - "& Lee"
-  - Y-C.
+  - Kettle, L.
+  - Herrera, K.M.G.
+  - Pithayarungsarit, P.
+  - Simpson, K.L.
+  - Lee, Y-C.
 publication: In Proceedings of the 67th Human Factors and Ergonomics Society
   International Annual Meeting.
 abstract: Vehicle manufacturers are advancing their automated driving system
