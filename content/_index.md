@@ -129,11 +129,15 @@ sections:
     content:
       title: Contact
       email: lkettle@gmu.edu
-      linkedin: https://www.linkedin.com/in/liam-kettle/
+      # linkedin: https://www.linkedin.com/in/liam-kettle/
+      contact_links:
+        - icon: linkedin
+          icon_pack: fab
+          name: Connect with me!
+          link: https://www.linkedin.com/in/liam-kettle/
       address:
         city: Fairfax
         region: VA
-        # postcode: '94305'
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?

@@ -38,4 +38,5 @@ summary: I conducted this project to explore specific driving-related features
   autonomous vehicle. An initial framework for traffic-light-related events will
   be presented at the 67th Human Factors and Ergonomics Society Conference.
 date: 2023-07-05T23:16:52.983Z
+publishDate: 2023-10-05T23:16:52.983Z
 ---
