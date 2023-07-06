@@ -129,7 +129,6 @@ sections:
     content:
       title: Contact
       email: lkettle@gmu.edu
-      # linkedin: https://www.linkedin.com/in/liam-kettle/
       contact_links:
         - icon: linkedin
           icon_pack: fab
