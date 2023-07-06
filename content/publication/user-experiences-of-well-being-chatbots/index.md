@@ -1,8 +1,17 @@
 ---
+title: User Experiences of Well-being Chatbots
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Yi-Ching Lee
+author_notes: []
+publication: Human Factors
+publication_short: ""
 abstract: >-
-  **Objective:** The current paper conducted two parallel studies to explore user
-  experiences of well-being conversational agents (CAs) and identify important
-  features for engagement.
+  **Objective:** The current paper conducted two parallel studies to explore
+  user experiences of well-being conversational agents (CAs) and identify
+  important features for engagement.
 
 
   **Background:** Students transitioning into university life take on greater responsibility, yet tend to sacrifice healthy behaviors to strive for academic and financial gain. Additionally, students faced an unprecedented pandemic, leading to remote courses and reduced access to healthcare services. One tool designed to improve healthcare accessibility is well-being CAs. CAs have addressed mental health support in the general population but have yet to address physical well-being support and accessibility to those in disadvantaged socio-economic backgrounds where healthcare access is further limited.
@@ -18,35 +27,26 @@ abstract: >-
 
 
   **Application:** Practical recommendations to encourage continued use include providing dynamic response modalities, anthropomorphizing the chatbot, and calibrating expectations early.
-slides: example
-publication_types:
-  - "2"
-authors:
-  - Liam Kettle
-  - Yi-Ching Lee
-author_notes: []
-publication: "Human Factors"
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: User Experiences of Well-being Chatbots
-doi: 10.1177/00187208231162453
 featured: false
 tags:
   - UX
   - Mental health
   - Chatbot
+slides: example
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+doi: 10.1177/00187208231162453
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2023-03-14T00:00:00Z
+date: 2023-03-14T00:00:00.000Z
 url_slides: ""
-publishDate: 2023-03-14T00:00:00Z
+publishDate: 2023-03-14T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
