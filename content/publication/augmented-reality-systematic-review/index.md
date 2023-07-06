@@ -28,7 +28,7 @@ abstract: Capabilities for automated driving system (ADS)-equipped vehicles have
   the review supports that integrating AR interfaces in ADS-equipped vehicles
   can lead to higher trust, acceptance, and safer driving performances.
 draft: false
-featured: false
+featured: true
 tags:
   - UX
 image:

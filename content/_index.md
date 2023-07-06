@@ -123,6 +123,7 @@ sections:
           - publication
         exclude_featured: false
         exclude_future: false
+        featured_only: true
     design:
       columns: '2'
       view: compact
