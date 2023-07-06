@@ -129,9 +129,8 @@ sections:
     content:
       title: Contact
       email: lkettle@gmu.edu
-      appointment_url: 'https://calendly.com'
+      linkedin: https://www.linkedin.com/in/liam-kettle/
       address:
-        # street: 450 Serra Mall
         city: Fairfax
         region: VA
         # postcode: '94305'
