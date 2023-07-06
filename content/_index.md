@@ -124,4 +124,21 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      email: lkettle@gmu.edu
+      appointment_url: 'https://calendly.com'
+      address:
+        # street: 450 Serra Mall
+        city: Fairfax
+        region: VA
+        # postcode: '94305'
+        country: United States
+        country_code: US
+      # Automatically link email and phone or display as text?
+      autolink: true
+    design:
+      columns: '2'
 ---
