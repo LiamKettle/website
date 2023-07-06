@@ -4,7 +4,7 @@ title: A Framework of Vehicle-Human Communication Features at Traffic
 publication_types:
   - "1"
 authors:
-  - Liam Kettle
+  - admin
   - Kayla Herrera
   - Pawinee Pithayarungsarit
   - Kassidy Simpson
