@@ -122,6 +122,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+        exclude_future: false
     design:
       columns: '2'
       view: compact
