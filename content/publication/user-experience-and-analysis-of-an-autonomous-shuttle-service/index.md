@@ -1,13 +1,13 @@
 ---
 title: User Experience and Analysis of an Autonomous Shuttle Service
 publication_types:
-  - "0"
+  - "1"
 authors:
   - Lova Andersson
   - Allegra Ayala
   - Shaun Chan
   - Kyle Hickerson
-  - Liam Kettle
+  - admin
   - Lindsey Malcein
   - Yi-Ching Lee
 publication: In Proceedings of the 7th International Conference on Vehicle
