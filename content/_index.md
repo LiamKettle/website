@@ -136,11 +136,6 @@ sections:
           icon_pack: fab
           name: Connect with me!
           link: https://www.linkedin.com/in/liam-kettle/
-      address:
-        city: Fairfax
-        region: VA
-        country: United States
-        country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
     design:
