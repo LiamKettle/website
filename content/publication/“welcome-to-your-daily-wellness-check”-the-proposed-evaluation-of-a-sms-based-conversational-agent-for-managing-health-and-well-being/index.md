@@ -4,8 +4,8 @@ title: "“Welcome to your Daily Wellness Check”: The Proposed Evaluation of a
 publication_types:
   - "1"
 authors:
-  - Kettle, L.
-  - Lee, Y-C.
+  - admin
+  - Yi-Ching Lee
 publication: In Proceedings of the 65th Human Factors and Ergonomics Society
   International Annual Meeting.
 abstract: University students tend to sacrifice healthy lifestyles in favor of
