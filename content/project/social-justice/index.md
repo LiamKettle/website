@@ -7,6 +7,8 @@ tags:
   - UX
 image:
   caption: ""
-  focal_point: ""
+  focal_point: SMART
+  filename: icon-usabilathon.jpg
+  preview_only: true
 ---
 A 12-hour "hackathon" style usability competition hosted by MITRE. The overall objective was to devise a solution that enables active collaboration from different stakeholders for Mitre's Social Justice Platform website.
