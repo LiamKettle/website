@@ -27,7 +27,7 @@ abstract: >-
 
 
   **Application:** Practical recommendations to encourage continued use include providing dynamic response modalities, anthropomorphizing the chatbot, and calibrating expectations early.
-featured: false
+featured: true
 tags:
   - UX
   - Mental health
