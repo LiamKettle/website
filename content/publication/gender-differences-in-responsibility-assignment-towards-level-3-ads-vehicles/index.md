@@ -3,7 +3,7 @@ title: Gender Differences in Responsibility Assignment towards Level 3-ADS Vehic
 publication_types:
   - "1"
 authors:
-  - Liam Kettle
+  - admin
   - Yi-Ching Lee
 publication: In Proceedings of the 67th Human Factors and Ergonomics Society
   International Annual Meeting.
