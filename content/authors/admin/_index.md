@@ -24,7 +24,7 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: George Mason University
-    url: lkettle@gmu.edu
+    url: https://humanfactors.gmu.edu/
 education:
   courses:
     - course: PhD in Human Factors and Applied Cognition, 2024
