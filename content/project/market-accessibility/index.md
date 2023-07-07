@@ -5,9 +5,10 @@ summary: 12-hour "hackathon" style usability competition for the design and
   development of improving in-app Marketplace accessibility `external_link`.
 tags:
   - UX
+  - Competitions
 external_link: ""
 image:
-  caption: "hellofresh icon"
+  caption: hellofresh icon
   focal_point: SMART
   filename: icon-hellofresh.jpg
   preview_only: false

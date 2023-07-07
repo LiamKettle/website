@@ -5,6 +5,7 @@ summary: UX Research competition for the design and development of a mHealth
   application for the Human Factors and Ergonomics Healthcare competition
 tags:
   - UX
+  - mHealth
 image:
   caption: ""
   focal_point: ""
