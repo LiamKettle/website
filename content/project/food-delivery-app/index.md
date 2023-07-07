@@ -9,6 +9,11 @@ url_slides: ""
 external_link: ""
 tags:
   - UX
+image:
+  caption: ""
+  focal_point: smart
+  filename: icon-RoadRunner.png
+  preview_only: false
 url_code: ""
 
 ---
