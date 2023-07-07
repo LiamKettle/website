@@ -32,21 +32,10 @@ tags:
   - UX
   - Mental health
   - Chatbot
-slides: example
 summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
 doi: 10.1177/00187208231162453
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 date: 2023-03-14T00:00:00.000Z
 url_slides: ""
 publishDate: 2023-03-14T00:00:00.000Z
-url_poster: ""
-url_code: ""
 ---
