@@ -3,7 +3,7 @@ url_pdf: ""
 summary: UX Research course project conducting usability evaluations of food
   delivery applications
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2021-05-16T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Enhancing Food Delivery Apps
