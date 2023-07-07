@@ -36,4 +36,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-12-05T23:07:59.060Z
+doi: 10.3390/safety8040084
 ---
