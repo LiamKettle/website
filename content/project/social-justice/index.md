@@ -9,8 +9,7 @@ tags:
 image:
   caption: ""
   focal_point: SMART
-  filename: icon-usabilathon.jpg
+  filename: null
   preview_only: true
 ---
-{{< figure src="icon-usabilathon.jpg" link="https://www.liamkettle.com/" >}}
 A 12-hour "hackathon" style usability competition hosted by MITRE. The overall objective was to devise a solution that enables active collaboration from different stakeholders for Mitre's Social Justice Platform website.
