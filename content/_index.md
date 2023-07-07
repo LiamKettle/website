@@ -30,12 +30,11 @@ sections:
           location: Fairfax, VA
           date_start: '2020-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: |2- 
+              * Provided insights and recommendations for augmented reality visualizations for effective communication between autonomous vehicles and drivers through a systematic review of 31 relevant articles. 
+              * Identified actionable recommendations to improve in-app navigation for feature accessibility through competitor analysis, user interviews, and iterative prototyping for a meal-kit delivery service application. 
+              * Increased potential for product growth in identifying means to better group ordering for college students by conducting usability experiments of food delivery applications to explore users’ behaviors and motivations.
+              * Advocated user-centric, data-driven decisions for a social justice platform to improve multi-disciplinary collaboration and communication by gathering insights about stakeholders’ needs and attitudes.
         - title: Researcher
           company: University of Otago
           company_url: ''
@@ -43,7 +42,9 @@ sections:
           location: Otago, New Zealand
           date_start: '2018-01-01'
           date_end: '2020-05-25'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Develop driving simulations using STI-SIM to investigate youth driver behavior in adverse weather conditions within New Zealand, measuring. automotive metrics including driver speed, lane maintenance, and headway distances
+              * Analyze driver speed, lane maintenance, and headway distances, and regressed behavioral changes on qualitative survey data including driver violations, lapses, errors, risk-taking propensity, anger, and sensation-seeking.
     design:
       columns: '2'
   # - block: collection
