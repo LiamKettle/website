@@ -8,6 +8,8 @@ tags:
 image:
   caption: ""
   focal_point: ""
+  filename: icon-chatbot.png
+  preview_only: true
 ---
 An individual research project exploring emerging user experience themes relevant to two well-being chatbots - one of which I created. I identified 10 emerging themes relevant to conversational features, functionality, and responses.
 Role: lead researcher
