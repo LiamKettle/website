@@ -92,10 +92,10 @@ sections:
           tag: '*'
         - name: UX
           tag: UX
-        - name: Vehicles
-          tag: Vehicles
-        - name: Other
-          tag: Other
+        - name: Competitions
+          tag: Competitions
+        - name: mHealth
+          tag: mHealth
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
