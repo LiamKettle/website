@@ -5,6 +5,7 @@ summary: 12-hour "hackathon" stlye usability competition for the design and
   development of improving collaboration for a Social Justice Platform
 tags:
   - UX
+  - Competitions
 image:
   caption: ""
   focal_point: SMART
