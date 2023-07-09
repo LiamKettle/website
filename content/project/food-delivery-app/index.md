@@ -23,11 +23,12 @@ Disclaimer: The presentation provided is our group presentation at the end of th
 
 As part of our Usability and Product Design class, we were tasked to evaluate and improve a given product. For this project, we chose to evaluate the usability of three main food delivery applications (FDA) - DoorDash, Grubhub, and Uber Eats. 
 
-Goals:
-- Compare the usability of different food delivery applications
-- Identify target users' frustration across the FDAs
-- Explore recommended areas of improvement
-- Evaluate a novel prototype based on the recommendations
+**Goals:**
+
+* Compare the usability of different food delivery applications
+* Identify target users' frustration across the FDAs
+* Explore recommended areas of improvement
+* Evaluate a novel prototype based on the recommendations
 
 **Method**
 
@@ -46,11 +47,13 @@ Continuing with our project, we conducted **user testing** utilizing **surveys**
 Overall, we were able to clearly understand the needs of our users and develop a prototype that enhanced the usability of restaurant/food selection, group ordering, and rating the food delivery and service. Note, our initial prototype is shown in the presentation slides; the final prototype can be viewed in the figma link below.
 
 **Recommendations**
-- Design a multi-restaurant filtering option to improve ease of use
-- More convenient group ordering and split payment system that considers distinctive single- and group -order factors influencing overall usage
-- A food and delivery review interface that allows multiple feedback options and scrolling requirements
+
+* Design a multi-restaurant filtering option to improve ease of use
+* More convenient group ordering and split payment system that considers distinctive single- and group -order factors influencing overall usage
+* A food and delivery review interface that allows multiple feedback options and scrolling requirements
 
 **Lessons learned**
-- Asking participants to share their screens alongside audio recordings to assist virtual usability testing. Although this was primarily a factor during COVID-19, this extends to all virtual usability testing.
-- Facilitating consistency during user testing, create a readily accessible quick reference sheet with open-ended questions for participants. The reference sheet is useful for cases where participants do not provide enough verbal feedback while interacting with the app.
-- If the participant is quiet throughout the walkthrough, do not be afraid to stop them and ask questions about the screen they interacted with most recently. 
+
+* Asking participants to share their screens alongside audio recordings to assist virtual usability testing. Although this was primarily a factor during COVID-19, this extends to all virtual usability testing.
+* Facilitating consistency during user testing, create a readily accessible quick reference sheet with open-ended questions for participants. The reference sheet is useful for cases where participants do not provide enough verbal feedback while interacting with the app.
+* If the participant is quiet throughout the walkthrough, do not be afraid to stop them and ask questions about the screen they interacted with most recently.
