@@ -24,6 +24,21 @@ This project is part of the journal article: User Experiences of Well-Being Chat
 University students face economic and accessibility barriers that limit the self-management of healthy lifestyles and healthcare resources. This issue is exacerbated for those from disadvantaged sociodemographic backgrounds who may go without stable internet to access well-being support. One tool designed to improve healthcare accessibility is well-being CAs. CAs have addressed mental health support in the general population but have yet to address physical well-being support and accessibility to those in disadvantaged socio-economic backgrounds where healthcare access is further limited. 
 Thus, the current research explored emerging themes relevant to the users' experiences of a SMS-based conversational agent (CA) and a similar, commercially available smartphone application, Wobot.
 
+
+| **Theme**                                | **N Participants (%)** |
+|------------------------------------------|------------------------|
+| User Response Modality                   | 19 (100%)              |
+| Question Specificity                     | 15 (78.9%)             |
+| CA Response Time and Length              | 14 (73.7%)             |
+| Conversation Flow Control                | 11 (57.9%)             |
+| Perceived CA Role                        | 10 (52.6%)             |
+| Digital Images and Imperfect Punctuation | 9 (47.4%)              |
+| Repetition                               | 8 (42.1%)              |
+| Task Immediacy                           | 7 (36.8%)              |
+| Calibrated Expectations                  | 6 (31.6%)              |
+| Bi-directional Communication             | 2 (10.5%)              |
+
+
 **Method**
 
 For all 19 participants, I conducted **concurrent think-aloud usability testing** to identify novel emerging themes relevant to the individuals’ experience in engaging each chatbot. Interactions were recorded and then transcribed for further analysis. 
