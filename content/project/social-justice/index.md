@@ -14,10 +14,10 @@ image:
 ---
 A 12-hour "hackathon" style usability competition hosted by MITRE. The overall objective was to devise a solution that enables active collaboration from different stakeholders for Mitre's Social Justice Platform website.
 
-**Background**
+## **Background**
 MITRE created a social justice platform website (sjp.mitre.org) which aims to be a resource for decision-makers by providing data, tools, and framework that address social justice challenges and enabling collaboration on solutions to those challenges.
 
-**Goals**
+## **Goals**
 
 Enable users to do the following:
 - Upload content that is relevant to the topics being addressed on the site
@@ -27,7 +27,7 @@ Enable users to do the following:
 
 Target users included MITRE administrators, academic researchers, government agencies, data scientists, and communities impacted by social injustice.
 
-**Method**
+## **Method**
 
 For this challenge, our team split into two teams – design and research.
 The design team created:
@@ -46,13 +46,13 @@ Next, we evaluated the initial wireframe through further **user testing**, ident
 
 Overall, we were able to understand the pain points of our different users and design a prototype that mitigated these frustrations. Additionally, through user interviews, we strategically incorporated a community feature to personally contact resource contributors and enhanced flow efficiency for moderating resources.
 
-**Recommendations**
+## **Recommendations**
 - Clearly define distinctions in jargon.
 - Highlight relevant content in close proximity to the resource.
 - Categorize user submissions under review.
 - Create community interaction through direct messaging and reactions to resources.
 
-**Lessons learned**
+## **Lessons learned**
 - 12 hours goes by quickly!
 - Spend critical time to plan and adhere to a timeline.
 - Overestimate the time required and adjust accordingly.

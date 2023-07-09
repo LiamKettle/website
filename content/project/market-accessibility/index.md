@@ -15,19 +15,19 @@ image:
 ---
 A 12-hour "hackathon" style usability competition sponsored by HelloFresh. The overall objective was to **provide a market experience to users**, **create a better flow for app navigation**, and **improve the personalization of the app experience.**
 
-**Background**
+## **Background**
 
 HelloFresh is a global meal-kit subscription service that sends users a box of pre-portioned ingredients and recipe cards each week. Certain meal options nudge users to add a Market item directly from the Menu to pair with that meal (e.g., garlic bread, side salad, dessert item, etc). The HelloFresh Market offers items coined as "add-ons" or "extras", appearing on a separate page after a user has saved their meal selection. 
 
 **Role**: Researcher in team of four
 
-**Objectives**
+## **Objectives**
 
 Our goal is to provide a Market experience where **users are able to add items to their order without friction or hesitation**, are inspired by the options available in the Market, and are confident that their order will meet their unique needs.
 
 Based on our research, the biggest area of opportunity for the Market is **improving or replacing the bifurcated meal selection flow**. By providing simple entry points and paths for adding and saving Market selections, we can reduce friction and increase conversion. Additional opportunities include **better framing and describing the Market more effectively, increasing trust in the Market items, and improving in-Market navigation**. 
 
-**Main Goals**
+## **Main Goals**
 
 * Mobile-first design
 * Accessible flow to market between Menu and Market before and during meal selection
@@ -35,7 +35,7 @@ Based on our research, the biggest area of opportunity for the Market is **impro
 * Personalization for product fit and relevance
 * Concise, informative categories and relevant Market onboarding
 
-**Research Phase**
+## **Research Phase**
 
 For this portion, our team focused on:
 
@@ -44,7 +44,7 @@ For this portion, our team focused on:
 * **Competitor** Analysis to understand the strengths and growth areas of other meal-delivery apps
 * **SME Interview** to quickly understand how a user engages the application and to identify possible pain points
 
-**SME Interview Findings**
+## **SME Interview Findings**
 
 * App navigation difficult
 
@@ -58,7 +58,7 @@ For this portion, our team focused on:
 
 *"I think most people just investigate and figure out on their own ... I start off with veggies and I add meat"*
 
-**Prototype Phase**
+## **Prototype Phase**
 
 For this portion, our team focused on:
 
@@ -67,7 +67,7 @@ For this portion, our team focused on:
 * **User testing** to evaluate potential areas of confusion in our prototype
 * **Medium-fidelity prototype** taking user feedback into consideration 
 
-**User Testing Focus Points:**
+## **User Testing Focus Points:**
 
 * Cart clarity and comprehension
 * In-item selection market recommendations
@@ -75,11 +75,11 @@ For this portion, our team focused on:
 
 
 
-**I﻿NSERT FIGURES HERE**
+**INSERT FIGURES HERE**
 
 
 
-**Key Recommendations:**
+## **Key Recommendations:**
 
 * Incorporate a navigation bar that is consistent with users' mental models for easily switching between meal kits and marketplace items
 * Enhance flow efficiency of Market categories and item recommendations
