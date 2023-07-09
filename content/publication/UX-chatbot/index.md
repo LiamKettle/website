@@ -6,6 +6,7 @@ authors:
   - admin
   - Yi-Ching Lee
 author_notes: []
+doi: 10.1177/00187208231162453
 publication: Human Factors
 publication_short: ""
 abstract: >-
@@ -32,9 +33,10 @@ tags:
   - UX
   - Mental health
   - Chatbot
-summary: ""
-doi: 10.1177/00187208231162453
 projects: []
+image:
+  preview_only: false
+summary: ""
 date: 2023-03-14T00:00:00.000Z
 url_slides: ""
 publishDate: 2023-03-14T00:00:00.000Z
