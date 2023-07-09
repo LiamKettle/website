@@ -51,7 +51,7 @@ Participants completed initial demographic surveys, interacted with one CA while
 - *"Some of these questions are stumping me, not gonna lie ... it's trying to get you to realize that the changes you want to make are attainable"*
 - *"It feels like it's adapting and learning what I'm saying to it"*
 
-**CA Response Time and Length **
+**CA Response Time and Length**
 - *"It has the text message delay that people are used to for texting, but it still sends it fast but even seeing the three dots pop up is reassuring to people who text a lot."*
 - *"A bot to message is sending all the responses immediately. I know I have time to read it but I guess spacing it out might make it feel a little more realistic."*
 - *"The fact that it’s not all one paragraph makes it part of the realism."*
