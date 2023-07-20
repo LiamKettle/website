@@ -115,6 +115,7 @@ sections:
   #     columns: '2'
   #     view: compact
   - block: collection
+    id: featured
     content:
       title: Select Publications
       count: 3
