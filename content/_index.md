@@ -11,6 +11,7 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      
   - block: experience
     id: experience
     content:
@@ -70,6 +71,7 @@ sections:
               * Evaluated over 50 novel system designs across various applications of Human Factors and provided recommendations for future accident analyses.
     design:
       columns: '2'
+      
   # - block: collection
   #   id: posts
   #   content:
@@ -137,6 +139,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
+  
   - block: collection
     id: featured
     content:
@@ -152,6 +155,7 @@ sections:
     design:
       columns: '2'
       view: compact
+      
   - block: contact
     id: contact
     content:
