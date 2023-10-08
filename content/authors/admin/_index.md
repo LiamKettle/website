@@ -47,5 +47,5 @@ highlight_name: true
 first_name: Liam
 email: lkettle@gmu.edu
 ---
-Liam Kettle is a PhD Candidate in the Human Factors and Applied Cognition PhD Program at George Mason University. You can find his resume [available online](https://github.com/LiamKettle/resume/blob/main/cv.pdf)
+:wave: Liam Kettle is a PhD Candidate in the Human Factors and Applied Cognition PhD Program at George Mason University. You can find his resume [available online](https://github.com/LiamKettle/resume/blob/main/cv.pdf)
 {style="text-align: justify;"}
