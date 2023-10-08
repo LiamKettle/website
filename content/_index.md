@@ -32,11 +32,11 @@ sections:
           date_start: '2020-08-01'
           date_end: ''
           description: |2- 
-              * Identified 29 key insights and recommendations for effective communication between autonomous vehicles and drivers through a systematic review of 31 articles and analyzing 8500+ comments across 128 participants.
-              * Identified actionable recommendations to increase potential for product growth of meal delivery services through task, competitor, and heuristic analysis, 5+ user interviews, and iterative prototyping to explore users' behaviors and motivations.
-              * Performed qualitative analysis of 19 user interviews and over 1,500 comments from online public forums identifying 21 emerging themes across the parallel studies to improve accessibility, communication style, and user experiences of mental health AI chatbots.
-              * Managed 20+ researchers over 7 projects through all phases of research, from study design (literature reviews and planing), data collection (in-person and online recrtuiment), and analysis (qualitative thematic analysis, ANOVA, moderation analysis).
-              * Demonstrated technical statistics expertise using SPSS and R statistical software to analyze quantitative (ANOVA, multiple regression, psychometrics, Bayesian) and qualitative (thematic analysis) data including structured and unstructured surveys, performance metrics, and usability tests.
+              * Identified 29 key insights and recommendations for effective communication between autonomous vehicles and drivers through a **systematic review** of 31 articles and analyzing 8500+ comments across 128 participants.
+              * Identified actionable recommendations to increase potential for product growth of meal delivery services through **task, competitor**, and **heuristic analysis**, 5+ **user interviews**, and iterative **prototyping** to explore users' behaviors and motivations.
+              * Performed **qualitative analysis** of 19 user interviews and over 1,500 comments from online public forums identifying 21 emerging themes across the parallel studies to improve accessibility, communication style, and user experiences of mental health AI chatbots.
+              * **Managed 20+ researchers** over 7 projects through all phases of research, from study design (literature reviews and planing), data collection (in-person and online recrtuiment), and analysis (qualitative thematic analysis, ANOVA, moderation analysis).
+              * Demonstrated technical statistics expertise using SPSS and R statistical software to analyze **quantitative** (ANOVA, multiple regression, psychometrics, Bayesian) and **qualitative** (thematic analysis) data including structured and unstructured surveys, performance metrics, and usability tests.
         - title: Summer Research Assistant
           company: George Mason University
           company_url: ''
@@ -56,8 +56,8 @@ sections:
           date_start: '2018-01-01'
           date_end: '2020-05-25'
           description: |2-
-              * Developed STI-SIM driving simulations and regressed behavioral changes on quantitative survey data of 100+ participants using SPSS to identify distinct youth driver risk factors across visibility conditions.
-              * Systematically identified 40+ crash contributing factors at rail level crossings across New Zealand and Australia through thematic analysis of investigation reports and Subject Matter Expert survey.
+              * Developed STI-SIM driving simulations and **regressed behavioral changes** on quantitative survey data of 100+ participants using SPSS to identify distinct youth driver risk factors across visibility conditions.
+              * Systematically identified 40+ crash contributing factors at rail level crossings across New Zealand and Australia through **thematic analysis** of investigation reports and **Subject Matter Expert survey**.
         - title: Psychology Teaching Assistant
           company: University of Otago
           company_url: ''
