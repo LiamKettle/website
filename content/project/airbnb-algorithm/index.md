@@ -3,10 +3,10 @@ url_pdf: ""
 url_video: ""
 external_link: ""
 url_slides: ""
-title: Evaluating AirBnb's Preferred Features
+title: Evaluating Airbnb's Preferred Features
 date: 2023-10-09T00:00:00.000Z
 summary: Individual research conducting MaxDiff survey to identify user driven
-  preferred AirBnb listing features
+  preferred Airbnb listing features
 draft: false
 featured: false
 tags:
@@ -18,9 +18,9 @@ image:
   preview_only: true
 url_code: ""
 ---
-**Summary:** AirBnb has millions of users searching for accommodations around the world. Given the vast number of available listings, AirBnb recommends listings to users using an algorithm model that considers a number of various listing features and characteristics. Although AirBnb is transparent in which factors they consider influential to their recommendation algorithm, a key question is whether these factors align with users' perspectives. Through a MaxDiff survey and follow-up user interviews, findings indicated that price, location, and rating align well with users' perspectives, yet features such as self check-in, superhost status, and instant book were less important than expected.
+**Summary:** Airbnb has millions of users searching for accommodations around the world. Given the vast number of available listings, Airbnb recommends listings to users using an algorithm model that considers a number of various listing features and characteristics. Although Airbnb is transparent in which factors they consider influential to their recommendation algorithm, a key question is whether these factors align with users' perspectives. Through a MaxDiff survey and follow-up user interviews, findings indicated that price, location, and rating align well with users' perspectives, yet features such as self check-in, superhost status, and instant book were less important than expected.
 
-Project overview: Understanding how AirBnb's search algorithm is aligned with user perspectives.
+Project overview: Understanding how Airbnb's search algorithm is aligned with user perspectives.
 
 # Process:
 
@@ -36,7 +36,7 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 * College graduate students and young professionals
 
-##Initial user interviews with 2 individuals to talk over filter features 
+## Initial user interviews with 2 individuals to talk over filter features 
 
 * discussed combining features that were relevant (e.g., smoke alarm and carbon monoxide alarm)
 
@@ -52,7 +52,7 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 ## Administer survey online
 
-* 28 participants - users of AirBnb
+* 28 participants - users of Airbnb
 
 ## Follow-up user interviews
 
@@ -61,7 +61,7 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 **Goals**
 
-* Identify which AirBnb listing features/characteristics that are most or least important when selecting accommodation
+* Identify which Airbnb listing features/characteristics that are most or least important when selecting accommodation
 
 * Identify whether users' perceived feature importance matches the current algorithm (as outlined on their website).
 
@@ -78,13 +78,15 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 * Works with a small number of participants
 
 
-# AirBnb's Recommendation Algorithm
+# Airbnb's Recommendation Algorithm
 
-AirBnb is transparent about which features they use for their recommendation algorithm. Therefore, I used their specified features as comparisons. Three key characteristics are heavily prominent in their algorithm: **Quality, popularity,** and **price.** 
+Airbnb is transparent about which features they use for their recommendation algorithm. Therefore, I used their specified features as comparisons. Three key characteristics are heavily prominent in their algorithm: **Quality, popularity,** and **price.** 
 
 > **Quality.** The algorithm assesses many characteristics to evaluate quality, including the **listing photos, reviews of the listing, and listing characteristics.** Higher quality listings tend to rank higher in search.
 
+
 > **Popularity.** The algorithm evaluates the popularity of a listing using a wide range of information, including **how guests engage with the listing** and **how often the listing gets booked.** Examples of guest engagement with a listing include how often guests save a listing to their wish list, how often guests book, and **how often guests message the Host.** More popular listings tend to rank higher in search.
+
 
 > **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including **how the price compares to similar listings** in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
 
@@ -105,7 +107,7 @@ Other factors that influence search results:
 * Guest influence
 
 
-To focus on features selectable by users, 7 features were selected as core influencers of AirBnb's recommendation algorithm:
+To focus on features selectable by users, 7 features were selected as core influencers of Airbnb's recommendation algorithm:
 * Price
 * Ratings
 * Number of reviews
@@ -117,7 +119,7 @@ To focus on features selectable by users, 7 features were selected as core influ
 
 # Procedure:
 
-* Initially interviewed 2 individuals on features they would find comparable using the AirBnb filtering features plus features utilized in their own algorithm scheme.
+* Initially interviewed 2 individuals on features they would find comparable using the Airbnb filtering features plus features utilized in their own algorithm scheme.
 
 * Cognitive walkthrough when pilot testing the survey - identify areas of confusion and add explanations at the start of the survey
 
@@ -148,16 +150,16 @@ Participants were randomly presented 5 of the 24 features and asked to select th
 * **Price** has greatest relative preference in listing features.
 * Next is **distance** and **accommodation rating**, followed by **wifi** and **air conditioning/heating**.
 * Participants showed only slightly positive preference for **Superhost status** and **high quality listing photos**.
-* Participants did not show positive or negative preference for **AirBnb Plus** and **Instant Book**.
+* Participants did not show positive or negative preference for **Airbnb Plus** and **Instant Book**.
 * **Fireplace** consistently rated the least preferred feature.
 
 ## Interviews
 
-### Misalignment of what key AirBnb features are
-Participants were confused on what **Superhost** and **AirBnb plus** was.
+### Misalignment of what key Airbnb features are
+Participants were confused on what **Superhost** and **Airbnb plus** was.
 > **Superhost:** "A Superhost is a nice feature if I am willing to give up autonomy"
 
-> **AirBnb Plus:** "It'd be less overall fees potentially, or it's like all fees grouped together in one go ... I know that's probably not the right definition."
+> **Airbnb Plus:** "It'd be less overall fees potentially, or it's like all fees grouped together in one go ... I know that's probably not the right definition."
 
 ### Accommodation ratings and review number have a complicated relationship
 Accommodation rating generally had greater preference than the total number of reviews, yet participants would skim reviews to make their final determination.
@@ -179,7 +181,7 @@ One participant mentioned a bad experience of trying to search for a physical ke
 
 
 # Recommendations
-* Enhance understanding of AirBnb specific terms such as **Superhost** and **AirBnb Plus**.
+* Enhance understanding of Airbnb specific terms such as **Superhost** and **Airbnb Plus**.
 * Add a "general vibe" of reviews
 * Enhance visibility of potential in-person host interactions
 * Restructure what listing characteristics users can filter by
