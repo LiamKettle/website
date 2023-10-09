@@ -28,7 +28,7 @@ sections:
         - title: Graduate Research Assistant
           company: George Mason University
           company_url: ''
-          company_logo: ![](GMU.png)
+          company_logo: ''
           location: Fairfax, VA
           date_start: '2020-08-01'
           date_end: ''
@@ -41,7 +41,7 @@ sections:
         - title: Summer Research Assistant
           company: George Mason University
           company_url: ''
-          company_logo: org-gc
+          company_logo: GMU
           location: Fairfax, VA
           date_start: '2023-05-25'
           date_end: '2023-08-05'
