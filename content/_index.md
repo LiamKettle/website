@@ -116,10 +116,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Individual Research
-          tag: Individual Research
         - name: Team Projects
-          tag: Team Projects
+          tag: Team
+        - name: Individual
+          tag: Individual Projects
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
