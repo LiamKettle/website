@@ -18,6 +18,8 @@ image:
   preview_only: true
 url_code: ""
 ---
+![Airbnb logo](airbnb_logo.jpg)
+
 **Summary:** Airbnb has millions of users searching for accommodations around the world. Given the vast number of available listings, Airbnb recommends listings to users using an algorithm model that considers a number of various listing features and characteristics. Although Airbnb is transparent in which factors they consider influential to their recommendation algorithm, a key question is whether these factors align with users' perspectives. Through a MaxDiff survey and follow-up user interviews, findings indicated that price, location, and rating align well with users' perspectives, yet features such as self check-in, superhost status, and instant book were less important than expected.
 
 **Role**: Individual Researcher
@@ -173,7 +175,4 @@ One participant mentioned a bad experience of trying to search for a physical ke
 # Reflection
 
 * Qualtrics is a good start at conceptualizing and learning the MaxDiff survey; however, a dedicated survey tool (e.g., Sawtooth Software) would be better if administering MaxDiff consistently.
-
-
-# The Technical
 
