@@ -18,7 +18,7 @@ image:
   preview_only: true
 url_code: ""
 ---
-Notes:
+**Summary:** AirBnb has millions of users searching for accommodations around the world. Given the vast number of available listings, AirBnb recommends listings to users using an algorithm model that considers a number of various listing features and characteristics. Although AirBnb is transparent in which factors they consider influential to their recommendation algorithm, a key question is whether these factors align with users' perspectives. Through a MaxDiff survey and follow-up user interviews, findings indicated that price, location, and rating align well with users' perspectives, yet features such as self check-in, superhost status, and instant book were less important than expected.
 
 Project overview: Understanding how AirBnb's search algorithm is aligned with user perspectives.
 
@@ -120,16 +120,53 @@ To focus on features selectable by users, 7 features were selected as core influ
 | Airbnb plus | Smoke alarm and/or carbon monoxide alarm | Superhost |
 
 
-# Maxdiff survey
+# MaxDiff survey
 
 Participants were randomly presented 5 of the 24 features and asked to select their most important and least important features. There were 14 sets.
 
 
-# Results
+# Findings
+
+## Survey
+
+* **Price** has greatest relative preference in listing features.
+* Next is **distance** and **accommodation rating**, followed by **wifi** and **air conditioning/heating**.
+* Participants showed only slightly positive preference for **Superhost status** and **high quality listing photos**.
+* Participants did not show positive or negative preference for **AirBnb Plus** and **Instant Book**.
+* **Fireplace** consistently rated the least preferred feature.
+
+## Interviews
+
+### Misalignment of what key AirBnb features are
+Participants were confused on what **Superhost** and **AirBnb plus** was.
+> **Superhost:** "A Superhost is a nice feature if I am willing to give up autonomy"
+
+> **AirBnb Plus:** "It'd be less overall fees potentially, or it's like all fees grouped together in one go ... I know that's probably not the right definition."
+
+### Accommodation ratings and review number have a complicated relationship
+Accommodation rating generally had greater preference than the total number of reviews, yet participants would skim reviews to make their final determination.
+
+> "I will take more risks with fewer reviews because everyone has to start somewhere ... I would prefer a 4.6/5 with 100 reviews over a 4.8/5 with 5 reviews."
+
+### Host interaction (well, lack of) matters!
+Participants mentioned preference against interacting with a host at the accommodation, sometimes assuming host interaction is a part of Superhost status.
+
+> "I don't really prioritize the social interaction of the host. I don't always know who the host is. Sometimes they're a little weird."
+
+### Physical self check-ins can be a scavenger hunt!
+One participant mentioned a bad experience of trying to search for a physical key external to the accommodation, but had good experiences with digital self check-ins.
+
+> "They sent me photos of where to find the key. I have to walk out from the apartment, turn right, find a tree, and the key lock is under the tree. What would happen if someone decided to cut that tree? or if there was a storm or something?"
 
 
 
-# Conclusions
+
+
+# Recommendations
+* Enhance understanding of AirBnb specific terms such as **Superhost** and **AirBnb Plus**.
+* Add a "general vibe" of reviews
+* Enhance visibility of potential in-person host interactions
+* Restructure what listing characteristics users can filter by
 
 
 # Reflection
@@ -137,3 +174,5 @@ Participants were randomly presented 5 of the 24 features and asked to select th
 * Qualtrics is good for learning MaxDiff, but not for applying under their basic subscription. Next time, I would trial Sawtooth Software given their survey tools specific to conjoint analysis.
 
 
+
+# The Technical
