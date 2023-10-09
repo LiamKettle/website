@@ -20,11 +20,6 @@ url_code: ""
 ---
 **Summary:** Airbnb has millions of users searching for accommodations around the world. Given the vast number of available listings, Airbnb recommends listings to users using an algorithm model that considers a number of various listing features and characteristics. Although Airbnb is transparent in which factors they consider influential to their recommendation algorithm, a key question is whether these factors align with users' perspectives. Through a MaxDiff survey and follow-up user interviews, findings indicated that price, location, and rating align well with users' perspectives, yet features such as self check-in, superhost status, and instant book were less important than expected.
 
-Project overview: Understanding how Airbnb's search algorithm is aligned with user perspectives.
-
-# Background
-
-Describe background
 **Role**: Individual Researcher
 
 # Objectives
@@ -44,10 +39,6 @@ Airbnb is transparent about which features they use for their recommendation alg
 
 
 > **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including **how the price compares to similar listings** in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
-
-* Quality includes features such as **listing photos, reviews of the listing, and listing characteristics**
-* Popularity evaluates how guests engage with the listing and how often the listing gets booked
-* Price considers a variety of price data, including how the price compares to similar listings
 
 Other factors that influence search results:
 * Location
@@ -92,9 +83,9 @@ Two methods were used to collect participant data.
 
 ## MaxDiff
 
-A MaxDiff survey is similar to a conjoint analysis whereby individuals are forced to make a choice between multiple items rather than rating each item out of 5.
+A MaxDiff survey is similar to a conjoint analysis whereby individuals are forced to make a choice between multiple items.
 
-Here, a MaxDiff survey:
+Advantages of the MaxDiff survey:
 * **Good discrimination among items** as participants are forced to select their most preferred and least preferred feature from a small subset of items, rather than rating everything as a 4 or 5 out of 5 for importance.
 * **Minimizes scale use bias** in that "most" and "least" is consistent across diverse participant demographics in contrast to Likert-Like scales developing different response bias.
 
@@ -114,7 +105,7 @@ Here, a MaxDiff survey:
 * Excluded accessibility features. Through discussion with others, we did not want to overshadow accessibility needs when recruiting from the general population.
 4. **Cognitive walkthrough** when pilot testing the survey to identify areas of confusion and add explanations at the start of the survey.
 
-The final survey included 24 features with the following question and items:
+The final survey included 24 features with the following question and items (bold indicates feature involved in Airbnb recommendation algorithm):
 
 "When you are considering Airbnb accommodation options within the US, **which one of the following 5 features is the LEAST important for you and which one feature is the MOST important to you?**"
 
@@ -134,14 +125,6 @@ With a MaxDiff survey, participants were provided with 14 sets of questions with
 
 ![Example set of survey items](survey-items.png)
 
-
-## Follow-up user interviews
-
-* 4 participants
-
-
-
-
 # Findings
 
 ## Survey
@@ -156,7 +139,7 @@ Using data from 28 respondents:
 
 ## Interviews
 
-Follow-up **user interviews** found several insights:
+Follow-up **user interviews** with 4 participants found several insights:
 
 ### Misalignment of what key Airbnb features are
 Participants were confused on what **Superhost** and **Airbnb plus** was.
@@ -179,14 +162,13 @@ One participant mentioned a bad experience of trying to search for a physical ke
 
 > "They sent me photos of where to find the key. I have to walk out from the apartment, turn right, find a tree, and the key lock is under the tree. What would happen if someone decided to cut that tree? or if there was a storm or something?"
 
-# something about fireplace?
 
-
-# Recommendations
-* Enhance understanding of Airbnb specific terms such as **Superhost** and **Airbnb Plus**.
-* Add a "general vibe" of reviews
-* Enhance visibility of potential in-person host interactions
-* Restructure what listing characteristics users can filter by
+# Practical Recommendations
+* Enhance understanding of Airbnb specific terms such as Superhost and Airbnb Plus.
+* Add a "general vibe" of reviews.
+* Restructure what listing characteristics users can filter by:
++ Enhance visibility of potential in-person host interactions.
++ Differentiate physical and digital self check-ins.
 
 # Reflection
 
