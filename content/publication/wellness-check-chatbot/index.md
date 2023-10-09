@@ -24,7 +24,7 @@ abstract: University students tend to sacrifice healthy lifestyles in favor of
   implementation of CAs to those with less accessibility to healthcare
   resources.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
