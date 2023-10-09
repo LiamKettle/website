@@ -63,6 +63,9 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 * Reduces scale use bias
 
 
+# AirBnb's Recommendation Algorithm
+
+
 # Procedure:
 
 * Initially interviewed 2 individuals on features they would find comparable using the AirBnb filtering features plus features utilized in their own algorithm scheme.
@@ -72,7 +75,7 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 "When you are considering Airbnb accommodation options within the US, **which one of the following 5 features is the LEAST important for you and which one feature is the MOST important to you?**"
 
 
-| Listed Features for Comparison | | |
+| | Listed Features for Comparison | |
 | - | - | - |
 | Instant book | Self check-in | (Clothes) Iron |
 | Air conditioning / Heating | Dedicated workspace | Hair dryer |
