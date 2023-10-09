@@ -71,14 +71,30 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 * Reduces scale use bias
 
+* Forces participants to pick their most and least preferred feature
+
+* Easy to administer
+
+* Works with a small number of participants
+
 
 # AirBnb's Recommendation Algorithm
 
 AirBnb is transparent about which features they use for their recommendation algorithm. Therefore, I used their specified features as comparisons. Three key characteristics are heavily prominent in their algorithm: **Quality, popularity,** and **price.** 
 
 > **Quality.** The algorithm assesses many characteristics to evaluate quality, including the **listing photos, reviews of the listing, and listing characteristics.** Higher quality listings tend to rank higher in search.
+
 > **Popularity.** The algorithm evaluates the popularity of a listing using a wide range of information, including **how guests engage with the listing** and **how often the listing gets booked.** Examples of guest engagement with a listing include how often guests save a listing to their wish list, how often guests book, and **how often guests message the Host.** More popular listings tend to rank higher in search.
+
 > **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including **how the price compares to similar listings** in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
+
+* Quality includes features such as **listing photos, reviews of the listing, and listing characteristics**
+* Popularity evaluates how guests engage with the listing and how often the listing gets booked
+* Price considers a variety of price data, including how the price compares to similar listings
+
+
+
+
 
 Other factors that influence search results:
 * Location
