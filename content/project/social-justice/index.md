@@ -12,7 +12,11 @@ image:
   filename: icon-usabilathon.jpg
   preview_only: true
 ---
+![Mitre and Usabilathon banner](mitre-banner-2.png)
+
 A 12-hour "hackathon" style usability competition hosted by MITRE. The overall objective was to devise a solution that enables active collaboration from different stakeholders for Mitre's Social Justice Platform website.
+
+![Mitre and Usabilathon banner](mitre-banner.png)
 
 ## **Background**
 MITRE created a social justice platform website (sjp.mitre.org) which aims to be a resource for decision-makers by providing data, tools, and framework that address social justice challenges and enabling collaboration on solutions to those challenges.

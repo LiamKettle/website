@@ -13,6 +13,8 @@ image:
   filename: icon-hellofresh.png
   preview_only: true
 ---
+![Hello Fresh banner](hellofresh-banner.png)
+
 A 12-hour "hackathon" style usability competition sponsored by HelloFresh. The overall objective was to **provide a market experience to users**, **create a better flow for app navigation**, and **improve the personalization of the app experience.**
 
 ## **Background**
