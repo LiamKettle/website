@@ -77,13 +77,13 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 | | Listed Features for Comparison | |
 | - | - | - |
+| Number of reviews | Accommodation rating | Price |
 | Instant book | Self check-in | (Clothes) Iron |
 | Air conditioning / Heating | Dedicated workspace | Hair dryer |
 | Kitchen | TV | Washer / Dryer |
 | Wifi | Free parking | Hot tub |
 | Indoor fireplace | Pool | Smoking allowed |
 | Host language | Distance from the desired area | High quality listing photos |
-| Number of reviews | Accommodation rating | Price |
-| Smoke alarm and/or carbon monoxide alarm | Airbnb plus | Superhost |
+| Airbnb plus | Smoke alarm and/or carbon monoxide alarm | Superhost |
 
 
