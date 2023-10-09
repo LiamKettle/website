@@ -28,7 +28,7 @@ sections:
         - title: Graduate Research Assistant
           company: George Mason University
           company_url: ''
-          company_logo: ''
+          company_logo: GMU
           location: Fairfax, VA
           date_start: '2020-08-01'
           date_end: ''
@@ -52,7 +52,7 @@ sections:
         - title: Researcher
           company: University of Otago
           company_url: ''
-          company_logo: org-x
+          company_logo: Otago
           location: Otago, New Zealand
           date_start: '2018-01-01'
           date_end: '2020-05-25'
@@ -62,7 +62,7 @@ sections:
         - title: Psychology Teaching Assistant
           company: University of Otago
           company_url: ''
-          company_logo: org-x
+          company_logo: Otago
           location: Otago, New Zealand
           date_start: '2018-01-25'
           date_end: '2020-05-25'
