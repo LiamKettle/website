@@ -1,8 +1,9 @@
 ---
-summary: Individual research conducting MaxDiff survey to identify user driven preferred AirBnb listing features
 title: Evaluating AirBnb's Preferred Features
-date: 2023-10-24T12:36:15.647Z
-draft: true
+date: 2023-10-09T12:36:15.647Z
+summary: Individual research conducting MaxDiff survey to identify user driven
+  preferred AirBnb listing features
+draft: false
 featured: false
 tags:
   - UX
