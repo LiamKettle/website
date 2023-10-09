@@ -70,3 +70,16 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 * Cognitive walkthrough when pilot testing the survey - identify areas of confusion and add explanations at the start of the survey
 
 "When you are considering Airbnb accommodation options within the US, **which one of the following 5 features is the LEAST important for you and which one feature is the MOST important to you?**"
+
+
+
+| Instant book | Self check-in | (Clothes) Iron |
+| Air conditioning / Heating | Dedicated workspace | Hair dryer |
+| Kitchen | TV | Washer / Dryer |
+| Wifi | Free parking | Hot tub |
+| Indoor fireplace | Pool | Smoking allowed |
+| Host language | Distance from the desired area | High quality listing photos |
+| Number of reviews | Accommodation rating | Price |
+| Smoke alarm and/or carbon monoxide alarm | Airbnb plus | Superhost |
+
+
