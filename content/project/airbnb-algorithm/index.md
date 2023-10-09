@@ -22,61 +22,16 @@ url_code: ""
 
 Project overview: Understanding how Airbnb's search algorithm is aligned with user perspectives.
 
-# Process:
+# Background
 
-## Identify current filters and features
+Describe background
+**Role**: Individual Researcher
 
-* Identified available features to filter, researched recommendation algorithm
+# Objectives
 
-## Identify target population and constrains
+Our goal is to understand users' preferences for Airbnb listing features and whether Airbnb's recommendation algorithm align with users' feature preferences.
 
-* Individuals residing in the US
-
-* Accommodation in the US
-
-* College graduate students and young professionals
-
-## Initial user interviews with 2 individuals to talk over filter features 
-
-* discussed combining features that were relevant (e.g., smoke alarm and carbon monoxide alarm)
-
-* identified uncertainty in features (e.g., what is considered "breakfast")
-
-## Define set list of target features
-
-* Decisions were made
-
-* Keep certain items together: air conditioning and heating; washer and dryer
-
-* Excluded accessibility features - through discussion with others, decided to exclude as do not want to overshadow accessibility needs when using the general population
-
-## Administer survey online
-
-* 28 participants - users of Airbnb
-
-## Follow-up user interviews
-
-* 4 participants
-
-
-**Goals**
-
-* Identify which Airbnb listing features/characteristics that are most or least important when selecting accommodation
-
-* Identify whether users' perceived feature importance matches the current algorithm (as outlined on their website).
-
-**Why MaxDiff?**
-
-* Good discrimination among items - forces individuals to make a choice between multiple items rather than potentially rating everything as 4 or 5 out of 5 for importance.
-
-* Reduces scale use bias
-
-* Forces participants to pick their most and least preferred feature
-
-* Easy to administer
-
-* Works with a small number of participants
-
+Aligning Airbnb's recommendation algorithm with users' perspectives and preferences ensures that the most appropriate accommodations are presented to Airbnb users. By providing accommodations aligned with users' needs, we can provide more personalized recommendations to reduce the time required for conversion. 
 
 # Airbnb's Recommendation Algorithm
 
@@ -93,10 +48,6 @@ Airbnb is transparent about which features they use for their recommendation alg
 * Quality includes features such as **listing photos, reviews of the listing, and listing characteristics**
 * Popularity evaluates how guests engage with the listing and how often the listing gets booked
 * Price considers a variety of price data, including how the price compares to similar listings
-
-
-
-
 
 Other factors that influence search results:
 * Location
@@ -117,43 +68,95 @@ To focus on features selectable by users, 7 features were selected as core influ
 * Instant book
 
 
-# Procedure:
+## Goals
 
-* Initially interviewed 2 individuals on features they would find comparable using the Airbnb filtering features plus features utilized in their own algorithm scheme.
+* Identify which Airbnb listing features/characteristics that are most or least important when selecting accommodation.
 
-* Cognitive walkthrough when pilot testing the survey - identify areas of confusion and add explanations at the start of the survey
+* Identify whether users' perceived feature importance matches the current recommendation algorithm.
+
+## Target Population and Constraints
+
+* Airbnb users
+
+* College graduate students and young professionals residing in the US
+
+* Accommodation in the US
+
+# Method
+
+Two methods were used to collect participant data.
+
+* A **MaxDiff** survey was administered to understand users' ranked preferences of listing features.
+
+* Follow-up **user interviews** were conducted to explore users' responses in detail.
+
+## MaxDiff
+
+A MaxDiff survey is similar to a conjoint analysis whereby individuals are forced to make a choice between multiple items rather than rating each item out of 5.
+
+Here, a MaxDiff survey:
+* **Good discrimination among items** as participants are forced to select their most preferred and least preferred feature from a small subset of items, rather than rating everything as a 4 or 5 out of 5 for importance.
+* **Minimizes scale use bias** in that "most" and "least" is consistent across diverse participant demographics in contrast to Likert-Like scales developing different response bias.
+
+* **Easy to administer**.
+
+* Works well with a **small number of participants**.
+
+
+### Identifying Comparable Features
+
+1. Collate all available features to filter on Airbnb.
+2. Pre-test **user interviews** with 3 individuals to discuss comparable features
+* Discussed combining features that were relevant (e.g., smoke alarm and carbon monoxide alarm)
+* Identified uncertainty in features (e.g., what is considered "breakfast")
+3. Define set list of target features
+* Kept certain items together (e.g., air conditioning and heating; washer and dryer)
+* Excluded accessibility features. Through discussion with others, we did not want to overshadow accessibility needs when recruiting from the general population.
+4. **Cognitive walkthrough** when pilot testing the survey to identify areas of confusion and add explanations at the start of the survey.
+
+The final survey included 24 features with the following question and items:
 
 "When you are considering Airbnb accommodation options within the US, **which one of the following 5 features is the LEAST important for you and which one feature is the MOST important to you?**"
 
-
 | | Listed Features for Comparison | |
 | - | - | - |
-| Number of reviews | Accommodation rating | Price |
-| Instant book | Self check-in | (Clothes) Iron |
-| Air conditioning / Heating | Dedicated workspace | Hair dryer |
+| **Number of reviews** | **Accommodation rating** | **Price** |
+| **Instant book** | **Distance from the desired area** | **High quality listing photos** |
+| **Superhost** | Dedicated workspace | Hair dryer |
 | Kitchen | TV | Washer / Dryer |
 | Wifi | Free parking | Hot tub |
 | Indoor fireplace | Pool | Smoking allowed |
-| Host language | Distance from the desired area | High quality listing photos |
-| Airbnb plus | Smoke alarm and/or carbon monoxide alarm | Superhost |
+| Host language | Air conditioning / Heating | Self check-in |
+| Airbnb plus | Smoke alarm and/or carbon monoxide alarm | (Clothes) Iron |
 
 
-# MaxDiff survey
+With a MaxDiff survey, participants were provided with 14 sets of questions with each set presenting 5 random features. 
 
-Participants were randomly presented 5 of the 24 features and asked to select their most important and least important features. There were 14 sets.
+![Example set of survey items](survey-items.png)
+
+
+## Follow-up user interviews
+
+* 4 participants
+
+
 
 
 # Findings
 
 ## Survey
 
+Using data from 28 respondents:
+
 * **Price** has greatest relative preference in listing features.
 * Next is **distance** and **accommodation rating**, followed by **wifi** and **air conditioning/heating**.
-* Participants showed only slightly positive preference for **Superhost status** and **high quality listing photos**.
-* Participants did not show positive or negative preference for **Airbnb Plus** and **Instant Book**.
+* Only slightly positive preference for **Superhost status** and **high quality listing photos**.
+* Relatively little positive or negative preference for **Airbnb Plus** and **Instant Book**.
 * **Fireplace** consistently rated the least preferred feature.
 
 ## Interviews
+
+Follow-up **user interviews** found several insights:
 
 ### Misalignment of what key Airbnb features are
 Participants were confused on what **Superhost** and **Airbnb plus** was.
@@ -176,8 +179,7 @@ One participant mentioned a bad experience of trying to search for a physical ke
 
 > "They sent me photos of where to find the key. I have to walk out from the apartment, turn right, find a tree, and the key lock is under the tree. What would happen if someone decided to cut that tree? or if there was a storm or something?"
 
-
-
+# something about fireplace?
 
 
 # Recommendations
@@ -186,11 +188,10 @@ One participant mentioned a bad experience of trying to search for a physical ke
 * Enhance visibility of potential in-person host interactions
 * Restructure what listing characteristics users can filter by
 
-
 # Reflection
 
-* Qualtrics is good for learning MaxDiff, but not for applying under their basic subscription. Next time, I would trial Sawtooth Software given their survey tools specific to conjoint analysis.
-
+* Qualtrics is a good start at conceptualizing and learning the MaxDiff survey; however, a dedicated survey tool (e.g., Sawtooth Software) would be better if administering MaxDiff consistently.
 
 
 # The Technical
+
