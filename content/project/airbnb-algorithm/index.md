@@ -1,4 +1,8 @@
 ---
+url_pdf: ""
+url_video: ""
+external_link: ""
+url_slides: ""
 title: Evaluating AirBnb's Preferred Features
 date: 2023-10-09T12:36:15.647Z
 summary: Individual research conducting MaxDiff survey to identify user driven
@@ -8,9 +12,11 @@ featured: false
 tags:
   - UX
 image:
+  caption: ""
   filename: icon-airbnb.png
   focal_point: Smart
   preview_only: true
+url_code: ""
 ---
 Notes:
 
@@ -20,7 +26,7 @@ Process:
 
 1. Identify current filters and features
 
-- Identified available features to filter, researched recommendation algorith
+- Identified available features to filter, researched recommendation algorithm
 
 2. Identify target population and constrains
 
@@ -66,4 +72,4 @@ Initially interviewed 2 individuals on features they would find comparable using
 
 Cognitive walkthrough when pilot testing the survey - identify areas of confusion and add explanations at the start of the survey
 
-"﻿When you are considering Airbnb accommodation options within the US, **which one of the following 5 features is the LEAST important for you and which one feature is the MOST important to you?**"
+"When you are considering Airbnb accommodation options within the US, **which one of the following 5 features is the LEAST important for you and which one feature is the MOST important to you?**"
