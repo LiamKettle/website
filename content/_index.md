@@ -142,7 +142,7 @@ sections:
     id: featured
     content:
       title: Select Publications
-      count: 3
+#      count: 3
       # text: |-
       filters:
         folders:
