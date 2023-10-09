@@ -129,6 +129,7 @@ sections:
   - block: collection
     id: featured
     content:
+      count: 3
       title: Select Publications
       # text: |-
       filters:
