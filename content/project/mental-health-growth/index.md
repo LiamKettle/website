@@ -12,6 +12,8 @@ image:
   filename: icon-ascent.png
   preview_only: true
 ---
+![](Login.png)
+
 Each year, HFES invites students to participate in the Mobile Health Applications for End Users design competition in conjunction with the 2022 International Symposium on Human Factors and Ergonomics in Health Care. The objectives are to (1) showcase the application of human factors/ergonomics (HF/E) methods and design principles to the design of a mobile health application for consumers (healthcare recipients) or their nonprofessional support network (informal caregivers and community); and (2) showcase how the HF/E approach to such an application can lead to a useful, usable, and satisfying user experience while simultaneously improving patient outcomes such as knowledge, safety, adherence, or health.
 
 ## **Objective**
