@@ -52,7 +52,7 @@ sections:
         - title: Researcher
           company: University of Otago
           company_url: ''
-          company_logo: Otago
+          company_logo: otago-2
           location: Otago, New Zealand
           date_start: '2018-01-01'
           date_end: '2020-05-25'
@@ -103,6 +103,7 @@ sections:
     id: projects
     content:
       title: Projects
+      count: 3
       filters:
         folders:
           - project
