@@ -8,7 +8,7 @@ external_link: ""
 url_slides: ""
 title: Enhancing Food Delivery Apps
 tags:
-  - UX
+  - Team Projects
 image:
   caption: ""
   focal_point: smart

@@ -10,7 +10,7 @@ summary: Individual research conducting MaxDiff survey to identify user driven
 draft: false
 featured: false
 tags:
-  - UX
+  - Individual Research
 image:
   caption: ""
   filename: icon-airbnb.png

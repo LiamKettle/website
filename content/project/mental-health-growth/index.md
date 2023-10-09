@@ -4,8 +4,7 @@ date: 2020-12-13T01:00:00.000Z
 summary: UX Research competition for the design and development of a mHealth
   application for the Human Factors and Ergonomics Healthcare competition
 tags:
-  - UX
-  - mHealth
+  - Team Projects
 image:
   caption: ""
   focal_point: ""

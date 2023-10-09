@@ -103,7 +103,6 @@ sections:
     id: projects
     content:
       title: Projects
-      count: 3
       filters:
         folders:
           - project
@@ -117,12 +116,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: UX
-          tag: UX
-        - name: Competitions
-          tag: Competitions
-        - name: mHealth
-          tag: mHealth
+        - name: Individual Research
+          tag: Individual Research
+        - name: Team Projects
+          tag: Team Projects
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
