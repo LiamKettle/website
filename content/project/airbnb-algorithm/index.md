@@ -50,6 +50,15 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 * Excluded accessibility features - through discussion with others, decided to exclude as do not want to overshadow accessibility needs when using the general population
 
+## Administer survey online
+
+* 28 participants - users of AirBnb
+
+## Follow-up user interviews
+
+* 4 participants
+
+
 **Goals**
 
 * Identify which AirBnb listing features/characteristics that are most or least important when selecting accommodation
@@ -79,6 +88,15 @@ Other factors that influence search results:
 * Instant booking
 * Guest influence
 
+
+To focus on features selectable by users, 7 features were selected as core influencers of AirBnb's recommendation algorithm:
+* Price
+* Ratings
+* Number of reviews
+* Distance from the desired area
+* High Quality Listing Photos
+* Superhost status
+* Instant book
 
 
 # Procedure:
