@@ -65,6 +65,21 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 
 # AirBnb's Recommendation Algorithm
 
+AirBnb is transparent about which features they use for their recommendation algorithm. Therefore, I used their specified features as comparisons. Three key characteristics are heavily prominent in their algorithm: **Quality, popularity,** and **price.** 
+
+> **Quality.** The algorithm assesses many characteristics to evaluate quality, including the **listing photos, reviews of the listing, and listing characteristics.** Higher quality listings tend to rank higher in search.
+> **Popularity.** The algorithm evaluates the popularity of a listing using a wide range of information, including **how guests engage with the listing** and **how often the listing gets booked.** Examples of guest engagement with a listing include how often guests save a listing to their wish list, how often guests book, and **how often guests message the Host.** More popular listings tend to rank higher in search.
+> **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including **how the price compares to similar listings** in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
+
+Other factors that influence search results:
+* Location
+* High quality listing photos
+* Accurate list of amenities
+* Superhost status
+* Instant booking
+* Guest influence
+
+
 
 # Procedure:
 
@@ -85,5 +100,22 @@ Project overview: Understanding how AirBnb's search algorithm is aligned with us
 | Indoor fireplace | Pool | Smoking allowed |
 | Host language | Distance from the desired area | High quality listing photos |
 | Airbnb plus | Smoke alarm and/or carbon monoxide alarm | Superhost |
+
+
+# Maxdiff survey
+
+Participants were randomly presented 5 of the 24 features and asked to select their most important and least important features. There were 14 sets.
+
+
+# Results
+
+
+
+# Conclusions
+
+
+# Reflection
+
+* Qualtrics is good for learning MaxDiff, but not for applying under their basic subscription. Next time, I would trial Sawtooth Software given their survey tools specific to conjoint analysis.
 
 
