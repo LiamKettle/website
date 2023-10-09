@@ -117,9 +117,9 @@ sections:
         - name: All
           tag: '*'
         - name: Team Projects
-          tag: Team
-        - name: Individual
-          tag: Individual Projects
+          tag: Team Projects
+        - name: Individual Research
+          tag: Individual Research
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
