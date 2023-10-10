@@ -22,7 +22,7 @@ abstract: Vehicles with autonomous features are more prevalent in today’s
   are provided followed by a discussion of the expected results and potential
   impact for research and legal issues
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
