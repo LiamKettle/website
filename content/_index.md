@@ -102,7 +102,6 @@ sections:
   - block: portfolio
     id: projects
     content:
-      count: 4      
       title: Projects
       filters:
         folders:
@@ -131,7 +130,8 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Select Publications
+      subtitle: To see my full publication list, visit my [Google Scholar profile here](https://scholar.google.com/citations?user=xIH4Ww8AAAAJ&hl=en).
       count: 3
       # text: |-
       filters:
@@ -139,7 +139,7 @@ sections:
           - publication
         exclude_featured: false
         exclude_future: false
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
       view: compact
