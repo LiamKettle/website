@@ -139,7 +139,7 @@ sections:
   #     view: compact
   
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Select Publications
       count: 3
