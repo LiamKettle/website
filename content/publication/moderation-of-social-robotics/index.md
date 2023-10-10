@@ -24,7 +24,7 @@ abstract: The current study aimed to further analyze Schadenberg et al.’s (202
   newer scales across varying conditions, especially within the social robotics
   field.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart

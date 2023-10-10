@@ -27,7 +27,7 @@ abstract: As the use of autonomous vehicles for public transportation becomes
   this area has implications for all facets of the transportation industry as
   well as future users of autonomous public transportation.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
