@@ -24,7 +24,7 @@ abstract: Numerous collisions have occurred since integrating vehicles with
   further demographic differences (e.g., age, socio-economic status) should be
   explored.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
