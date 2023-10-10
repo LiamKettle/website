@@ -126,18 +126,30 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  
   - block: collection
     id: featured
     content:
-      count: 3
       title: Select Publications
+      count: 3
       # text: |-
       filters:
         folders:
           - publication
         exclude_featured: false
         exclude_future: false
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: compact
