@@ -132,7 +132,7 @@ sections:
     content:
       title: Select Publications
       subtitle: To see my full publication list, visit my [Google Scholar profile here](https://scholar.google.com/citations?user=xIH4Ww8AAAAJ&hl=en).
-      count: 3
+      # count: 3
       text: testing
       filters:
         folders:
