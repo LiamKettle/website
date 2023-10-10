@@ -102,6 +102,7 @@ sections:
   - block: portfolio
     id: projects
     content:
+      count: 4      
       title: Projects
       filters:
         folders:
@@ -130,7 +131,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Select Publications
+      title: Recent Publications
       count: 3
       # text: |-
       filters:
