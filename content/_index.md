@@ -102,7 +102,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Select Projects
       filters:
         folders:
           - project
@@ -116,8 +116,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: UX "Hackathon"
-          tag: UX "Hackathon"
+        - name: UX Usabilathon
+          tag: UX Usabilathon
         - name: Individual Research
           tag: Individual Research
     design:
