@@ -4,7 +4,7 @@ date: 2022-11-13T01:00:00.000Z
 summary: 12-hour "hackathon" style usability competition for the design and
   development of improving in-app Marketplace accessibility.
 tags:
-  - UX "Hackathon"
+  - UX Usabilathon
 external_link: ""
 image:
   caption: hellofresh icon
