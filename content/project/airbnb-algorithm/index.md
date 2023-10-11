@@ -129,12 +129,12 @@ Using data from 28 respondents:
 * **Price** has greatest relative preference in listing features.
 * Next is **distance** and **accommodation rating**, followed by **wifi** and **air conditioning/heating**.
 * Only slightly positive preference for **Superhost status** and **high quality listing photos**.
-* R﻿elatively indifferent preferences for **Airbnb Plus** and **Instant Book**.
+* Relatively indifferent preferences for **Airbnb Plus** and **Instant Book**.
 * **Fireplace** consistently rated as the least preferred feature.
 
 
 
-F﻿or those interested, the raw relative preferences are shown below:
+For those interested, the raw relative preferences are shown below:
 
 ![](overall-preference.png)
 
@@ -181,4 +181,4 @@ One participant mentioned a bad experience of trying to search for a physical ke
 # Final Thoughts
 
 * Qualtrics is a good start at conceptualizing and learning the MaxDiff survey; however, a dedicated survey tool (e.g., Sawtooth Software) would be better if administering MaxDiff consistently.
-* F﻿ocus groups may provide more detailed information than independent follow-up interviews - allowing for distinct motivations behind high- and low-preferenced features rather than overall sentiment.
+* Focus groups may provide more detailed information than independent follow-up interviews - allowing for distinct motivations behind high- and low-preferenced features rather than overall sentiment.

@@ -116,8 +116,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Team Projects
-          tag: Team Projects
+        - name: UX "Hackathon"
+          tag: UX "Hackathon"
         - name: Individual Research
           tag: Individual Research
     design:
