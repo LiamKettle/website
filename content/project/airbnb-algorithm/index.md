@@ -26,7 +26,7 @@ url_code: ""
 
 # **Objectives**
 
-My goal was to understand users' preferences for Airbnb listing features and whether Airbnb's recommendation algorithm aligns with users' feature preferences.
+The goal was to understand users' preferences for Airbnb listing features and whether Airbnb's recommendation algorithm aligns with users' feature preferences.
 
 Aligning Airbnb's recommendation algorithm with users' perspectives and preferences ensures that the most appropriate accommodations are presented to Airbnb users. By providing accommodations aligned with users' needs, we can provide more personalized recommendations to reduce the time required for conversion. 
 
@@ -40,7 +40,8 @@ Airbnb is transparent about which features they use for their recommendation alg
 >
 > **Price.** To determine how attractive the price of a listing is, the algorithm considers a variety of price data, including **how the price compares to similar listings** in the area for the given dates. Listings that are priced below other comparable listings—other listings in the area with similar guest capacity and amenities—tend to rank higher in search.
 
-Other factors that influence search results:
+
+Other factors that Airbnb mentions as influencing their search recommendations include:
 
 * Location
 * High quality listing photos
@@ -51,33 +52,27 @@ Other factors that influence search results:
 
 To focus on features selectable by users, 7 features were selected as core influencers of Airbnb's recommendation algorithm:
 
-* Price
-* Ratings
-* Number of reviews
-* Distance from the desired area
-* High Quality Listing Photos
-* Superhost status
-* Instant book
+![the seven airbnb listing features](airbnb-features.png)
 
-## Goals
+# **Goals**
 
 * Identify which Airbnb listing features/characteristics that are most or least important when selecting accommodation.
 * Identify whether users' perceived feature importance matches the current recommendation algorithm.
 
-## Target Population and Constraints
+## **Target Population and Constraints**
 
 * Airbnb users
 * College graduate students and young professionals residing in the US
 * Accommodation in the US
 
-# Method
+# **Method**
 
 Two methods were used to collect participant data.
 
 * A **MaxDiff** survey was administered to understand users' ranked preferences of listing features.
 * Follow-up **user interviews** were conducted to explore users' responses in detail.
 
-## MaxDiff
+## **MaxDiff**
 
 A MaxDiff survey is similar to a conjoint analysis whereby individuals are forced to make a choice between multiple items.
 
@@ -120,9 +115,9 @@ With a MaxDiff survey, participants were provided with 14 sets of questions with
 
 ![Example set of survey items](survey-items.png)
 
-# Findings
+# **Findings**
 
-## Survey
+## **Survey**
 
 Using data from 28 respondents:
 
@@ -136,7 +131,7 @@ For those interested, the raw relative preferences are shown below:
 
 ![](overall-preference.png)
 
-## Interviews
+## **Interviews**
 
 Follow-up **user interviews** with 4 participants found several insights:
 
@@ -166,7 +161,7 @@ One participant mentioned a bad experience of trying to search for a physical ke
 
 > "They sent me photos of where to find the key. I have to walk out from the apartment, turn right, find a tree, and the key lock is under the tree. What would happen if someone decided to cut that tree? or if there was a storm or something?"
 
-# Practical Recommendations
+# **Practical Recommendations**
 
 * Enhance understanding of Airbnb specific terms such as Superhost and Airbnb Plus.
 * Add a "general vibe" of reviews.
@@ -174,7 +169,7 @@ One participant mentioned a bad experience of trying to search for a physical ke
 * Enhance visibility of potential in-person host interactions.
 * Differentiate physical and digital self check-ins.
 
-# Final Thoughts
+# **Final Thoughts**
 
 * Qualtrics is a good start at conceptualizing and learning the MaxDiff survey; however, a dedicated survey tool (e.g., Sawtooth Software) would be better if administering MaxDiff consistently.
 * Focus groups may provide more detailed information than independent follow-up interviews - allowing for distinct motivations behind high- and low-preferenced features rather than overall sentiment.
