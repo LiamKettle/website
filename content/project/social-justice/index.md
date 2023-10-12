@@ -15,10 +15,10 @@ image:
 
 A 12-hour "hackathon" style usability competition hosted by MITRE. The overall objective was to devise a solution that enables active collaboration from different stakeholders for Mitre's Social Justice Platform website.
 
-## **Background**
+# **Background**
 MITRE created a social justice platform website (sjp.mitre.org) which aims to be a resource for decision-makers by providing data, tools, and framework that address social justice challenges and enabling collaboration on solutions to those challenges.
 
-## **Goals**
+# **Goals**
 
 Enable users to do the following:
 - Upload content that is relevant to the topics being addressed on the site
@@ -28,7 +28,7 @@ Enable users to do the following:
 
 Target users included MITRE administrators, academic researchers, government agencies, data scientists, and communities impacted by social injustice.
 
-## **Method**
+# **Method**
 
 For this challenge, our team split into two teams – design and research.
 The design team created:
@@ -43,17 +43,45 @@ As part of the research team, I conducted interviews exploring users' motivation
 
 Afterward, the two teams came together and, using **post-it note brainstorming**, we identified potential pain points that needed to be addressed and began to form a **pen-and-paper wireframe**. 
 
+![post-it note brainstorming](post-its.jpeg)
+
+![pen and paper wireframes](wireframes-combined.png)
+
 Next, we evaluated the initial wireframe through further **user testing**, identifying areas of confusion. We created a **low-fidelity prototype** that improved our initial wireframe, which was evaluated during the second iteration of user testing. This final iteration provided insight to improve our product before a 10-minute presentation.
 
 Overall, we were able to understand the pain points of our different users and design a prototype that mitigated these frustrations. Additionally, through user interviews, we strategically incorporated a community feature to personally contact resource contributors and enhanced flow efficiency for moderating resources.
 
-## **Recommendations**
+# **Final Prototype**
+
+### Allow users to actively engage in community messaging
+
+![Community messaging](Messaging.png)
+
+### Provide initial contributions page with concise descriptions of relavent jargon
+
+![Choosing what to contribute](Submit.png)
+
+### Create a clear new submissions page with progress bar and easy to use input boxes
+
+![Submitting a new resource](Submission.png)
+
+### Clearly communicate submission review process
+
+![Feedback on submission progress](Moderate.png)
+
+### Highlight related resources for efficient information acquisition
+
+![Highlight related resoures](Resource.png)
+
+[View the final Figma prototype by clicking here](https://www.figma.com/proto/d3Z1fgrukfphmbHk7Zah3r/Usabilathon?node-id=1-2&scaling=scale-down&starting-point-node-id=1%3A2)
+
+# **Recommendations**
 - Clearly define distinctions in jargon.
 - Highlight relevant content in close proximity to the resource.
 - Categorize user submissions under review.
 - Create community interaction through direct messaging and reactions to resources.
 
-## **Lessons learned**
+# **Lessons learned**
 - 12 hours goes by quickly!
 - Spend critical time to plan and adhere to a timeline.
 - Overestimate the time required and adjust accordingly.
