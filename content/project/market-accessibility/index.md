@@ -71,6 +71,11 @@ For this portion, our team focused on:
 * **User testing** to evaluate potential areas of confusion in our prototype
 * **Medium-fidelity prototype** taking user feedback into consideration 
 
+![pen and paper wireframes](prototype-combined.png)
+
+![low fidelity wireframe](wireframe-1.png)
+
+
 ## **User Testing Focus Points:**
 
 * Cart clarity and comprehension
@@ -88,6 +93,17 @@ Next, we focused on **market accessibility** so that users can navigate across p
 Finally, we made **personalization features** more salient for dietary restrictions.
 
 Shown below are the key areas of improvement that our team cultivated:
+
+# **Bold header 1**
+
+# Normal header 1
+
+## **bold header 2**
+
+## Normal header 2
+
+### **Bold 3**
+
 
 ### Consistent navbar that can switch between My Meals, Meal Kits, and Market
 
