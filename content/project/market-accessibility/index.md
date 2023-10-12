@@ -16,19 +16,19 @@ image:
 
 A 12-hour "hackathon" style usability competition sponsored by HelloFresh. The overall objective was to **provide a market experience to users**, **create a better flow for app navigation**, and **improve the personalization of the app experience.**
 
-## **Background**
+# **Background**
 
 HelloFresh is a global meal-kit subscription service that sends users a box of pre-portioned ingredients and recipe cards each week. Certain meal options nudge users to add a Market item directly from the Menu to pair with that meal (e.g., garlic bread, side salad, dessert item, etc). The HelloFresh Market offers items coined as "add-ons" or "extras", appearing on a separate page after a user has saved their meal selection. 
 
 **Role**: Researcher in team of four
 
-## **Objectives**
+# **Objectives**
 
 Our goal is to provide a Market experience where **users are able to add items to their order without friction or hesitation**, are inspired by the options available in the Market, and are confident that their order will meet their unique needs.
 
 Based on our research, the biggest area of opportunity for the Market is **improving or replacing the bifurcated meal selection flow**. By providing simple entry points and paths for adding and saving Market selections, we can reduce friction and increase conversion. Additional opportunities include **better framing and describing the Market more effectively, increasing trust in the Market items, and improving in-Market navigation**. 
 
-## **Main Goals**
+# **Main Goals**
 
 * Mobile-first design
 * Accessible flow to market between Menu and Market before and during meal selection
@@ -39,7 +39,7 @@ Based on our research, the biggest area of opportunity for the Market is **impro
 ![Must haves, should haves, nice to haves](Must-haves.png)
 
 
-## **Research Phase**
+# **Research Phase**
 
 For this portion, our team focused on:
 
@@ -62,7 +62,7 @@ For this portion, our team focused on:
 
 *"I think most people just investigate and figure out on their own ... I start off with veggies and I add meat"*
 
-## **Prototype Phase**
+# **Prototype Phase**
 
 For this portion, our team focused on:
 
@@ -82,7 +82,7 @@ For this portion, our team focused on:
 * In-item selection market recommendations
 * Meal kit and Market categorization
 
-## **Final Prototype**
+# **Final Prototype**
 
 In line with the goals of our project, our application prioritized a **mobile first design** as the large majority of Hello Fresh users use the mobile application.
 
@@ -94,44 +94,32 @@ Finally, we made **personalization features** more salient for dietary restricti
 
 Shown below are the key areas of improvement that our team cultivated:
 
-# **Bold header 1**
+### 1. Consistent navbar that can switch between My Meals, Meal Kits, and Market
 
-# Normal header 1
+![Image showing navbar](final-menu-bar.png)
 
-## **bold header 2**
+### 2. Improved market recommendation after adding item
 
-## Normal header 2
+![Image showing recommendation after adding item](final-recommendation.png)
 
-### **Bold 3**
+### 3. Specific Market categories to select relevant, individual meals
 
+![Including specific market categories](final-market-category.png)
 
-### Consistent navbar that can switch between My Meals, Meal Kits, and Market
+### 4. Meal kits categorized using dropdown menus for easy access and navigation
 
-![](final-menu-bar.png)
+![Including specific meal-kit categories](final-category.png)
 
-### Improved market recommendation after adding item
+### 5. Cart overlay allows easy editing before checking out
 
-![](final-recommendation.png)
+![Cart overlay](cart.png)
 
-### Specific Market categories to select relevant, individual meals
+### 6. Editing preferences easily accessible to choose dietary restrictions or exclude food items
 
-![](final-market-category.png)
-
-### Meal kits categorized using dropdown menus for easy access and navigation
-
-![](final-category.png)
-
-### Cart overlay allows easy editing before checking out
-
-![](cart.png)
-
-### Editing preferences easily accessible to choose dietary restrictions or exclude food items
-
-![](Preferences.png)
+![Editing dietary preferences](Preferences.png)
 
 
-
-Final prototype can be found here [click here to access prototype](https://www.figma.com/proto/HBCPLmRFpL8i7MgJFwLTAK/HelloFresh-Usabilathon?node-id=3-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
+[View the final Figma prototype by clicking here](https://www.figma.com/proto/HBCPLmRFpL8i7MgJFwLTAK/HelloFresh-Usabilathon?node-id=3-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 
 ## **Key Recommendations:**
