@@ -24,13 +24,13 @@ url_code: ""
 
 **Role**: Individual Researcher
 
-# Objectives
+# **Objectives**
 
-Our goal is to understand users' preferences for Airbnb listing features and whether Airbnb's recommendation algorithm align with users' feature preferences.
+My goal was to understand users' preferences for Airbnb listing features and whether Airbnb's recommendation algorithm aligns with users' feature preferences.
 
 Aligning Airbnb's recommendation algorithm with users' perspectives and preferences ensures that the most appropriate accommodations are presented to Airbnb users. By providing accommodations aligned with users' needs, we can provide more personalized recommendations to reduce the time required for conversion. 
 
-## Airbnb's Recommendation Algorithm
+## **Airbnb's Recommendation Algorithm**
 
 Airbnb is transparent about which features they use for their recommendation algorithm. Therefore, I used their specified features as comparisons. Three key characteristics are heavily prominent in their algorithm: **Quality, popularity,** and **price.** 
 
@@ -132,13 +132,9 @@ Using data from 28 respondents:
 * Relatively indifferent preferences for **Airbnb Plus** and **Instant Book**.
 * **Fireplace** consistently rated as the least preferred feature.
 
-
-
 For those interested, the raw relative preferences are shown below:
 
 ![](overall-preference.png)
-
-
 
 ## Interviews
 
