@@ -84,11 +84,11 @@ For this portion, our team focused on:
 
 # **Final Prototype**
 
-In line with the goals of our project, our application prioritized a **mobile first design** as the large majority of Hello Fresh users use the mobile application.
+In line with the goals of our project, our application prioritized a **mobile first design** as the large majority of Hello Fresh users make their journey through the mobile application.
 
 Next, we focused on **market accessibility** so that users can navigate across pages without friction during all stages of their ordering journey. 
 
-**In-market navigation** was more efficiently organized so that users could browse items more easily.
+**In-market navigation** was more efficiently organized so that users could browse items more easily while being provided **concicse and informative categories**.
 
 Finally, we made **personalization features** more salient for dietary restrictions.
 
