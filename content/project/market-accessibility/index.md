@@ -36,6 +36,9 @@ Based on our research, the biggest area of opportunity for the Market is **impro
 * Personalization for product fit and relevance
 * Concise, informative categories and relevant Market onboarding
 
+![Must haves, should haves, nice to haves](Must-haves.png)
+
+
 ## **Research Phase**
 
 For this portion, our team focused on:
@@ -74,10 +77,45 @@ For this portion, our team focused on:
 * In-item selection market recommendations
 * Meal kit and Market categorization
 
+## **Final Prototype**
+
+In line with the goals of our project, our application prioritized a **mobile first design** as the large majority of Hello Fresh users use the mobile application.
+
+Next, we focused on **market accessibility** so that users can navigate across pages without friction during all stages of their ordering journey. 
+
+**In-market navigation** was more efficiently organized so that users could browse items more easily.
+
+Finally, we made **personalization features** more salient for dietary restrictions.
+
+Shown below are the key areas of improvement that our team cultivated:
+
+### Consistent navbar that can switch between My Meals, Meal Kits, and Market
+
+![](final-menu-bar.png)
+
+### Improved market recommendation after adding item
+
+![](final-recommendation.png)
+
+### Specific Market categories to select relevant, individual meals
+
+![](final-market-category.png)
+
+### Meal kits categorized using dropdown menus for easy access and navigation
+
+![](final-category.png)
+
+### Cart overlay allows easy editing before checking out
+
+![](cart.png)
+
+### Editing preferences easily accessible to choose dietary restrictions or exclude food items
+
+![](Preferences.png)
 
 
-**INSERT FIGURES HERE**
 
+Final prototype can be found here [click here to access prototype](https://www.figma.com/proto/HBCPLmRFpL8i7MgJFwLTAK/HelloFresh-Usabilathon?node-id=3-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2)
 
 
 ## **Key Recommendations:**
