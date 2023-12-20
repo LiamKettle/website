@@ -25,7 +25,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate Research Assistant
+        - title: Doctoral Research Scholar
           company: George Mason University
           company_url: ''
           company_logo: GMU
@@ -33,12 +33,12 @@ sections:
           date_start: '2020-08-01'
           date_end: ''
           description: |2- 
-              * Identified 29 key insights and recommendations for effective communication between autonomous vehicles and drivers through a **systematic review** of 31 articles and analyzing 8500+ comments across 128 participants.
-              * Identified actionable recommendations to increase potential for product growth of meal delivery services through **task, competitor**, and **heuristic analysis**, 5+ **user interviews**, and iterative **prototyping** to explore users' behaviors and motivations.
-              * Performed **qualitative analysis** of 19 user interviews and over 1,500 comments from online public forums identifying 21 emerging themes across the parallel studies to improve accessibility, communication style, and user experiences of mental health AI chatbots.
-              * **Managed 20+ researchers** over 7 projects through all phases of research, from study design (literature reviews and planing), data collection (in-person and online recrtuiment), and analysis (qualitative thematic analysis, ANOVA, moderation analysis).
-              * Demonstrated technical statistics expertise using SPSS and R statistical software to analyze **quantitative** (ANOVA, multiple regression, psychometrics, Bayesian) and **qualitative** (thematic analysis) data including structured and unstructured surveys, performance metrics, and usability tests.
-        - title: Summer Research Assistant
+              * Published strategic recommendations to improve accessibility, communication style, and user experiences of mental health AI chatbots via parallel studies analyzing 19 interviews with **cognitive walkthroughs** and over 1,500 comments from online public forums.
+              * Enhanced driver safety awareness by advocating 29 key recommendations for effective vehicle-human communication to industry, government, and academic stakeholders through a **systematic review** and **thematic analysis** of 8500+ responses.
+              * Increased potential for product growth by presenting actionable recommendations for design concepts to external stakeholders through **task, competitor**, and **heuristic analysis**, 5+ **user interviews**, and iterative **prototyping** to explore users' behaviors and motivations.
+              * Enabled research growth through the management and **mentoring of 20+ researchers** over 7 projects through all phases of research, from study design (literature reviews and planning), data collection (in-person and online recruitment), analysis (thematic analysis, ANOVA, regression), and report writing.
+              * Published 5+ articles incorporating **quantitative** (ANOVA, regression, psychometrics) and **qualitative** (thematic analysis) analyses from structured and unstructured surveys, performance metrics, and usability tests.
+        - title: Research Associate
           company: George Mason University
           company_url: ''
           company_logo: GMU
@@ -46,9 +46,10 @@ sections:
           date_start: '2023-05-25'
           date_end: '2023-08-05'
           description: |2- 
-              * Identified 5+ areas for improvement towards creating a testbed for human-machine teaming in space operations through conducting an experimental study with 20 participants.
-              * Analyzed quantitative measures using R to provide a proof-of-concept in support of future grants towards human-machine teaming.
-              * Collaborated with the United States Air Force Academy and mentored 2 cadets in end-to-end research.
+              * Enhanced research protocol effectiveness by advocating areas for improvement to stakeholders towards creating a novel testbed for human-machine teaming in space operations.
+              * Strengthened support for securing future grants towards human-machine teaming through successful implementation of proof-of-concept experimental research.
+              * Collaborated with the United States Air Force Academy and mentored 2 cadets in end-to-end research leading to their successful stakeholder presentation and conference submission.
+
         - title: Researcher
           company: University of Otago
           company_url: ''
@@ -57,8 +58,9 @@ sections:
           date_start: '2018-01-01'
           date_end: '2020-05-25'
           description: |2-
-              * Developed STI-SIM driving simulations and **regressed behavioral changes** on quantitative survey data of 100+ participants using SPSS to identify distinct youth driver risk factors across visibility conditions.
-              * Systematically identified 40+ crash contributing factors at rail level crossings across New Zealand and Australia through **thematic analysis** of investigation reports and **Subject Matter Expert survey**.
+              * Enhanced road safety understanding of youth driver risk factors through the development of driving simulations coupled with SPSS **regression analysis** on survey data of 100+ participants.
+              * Advocated policy changes and safety initiatives at rail level crossings through systematically identifying 40+ crash contributing factors at rail level crossings across New Zealand and Australia via **thematic analysis** of investigation reports and **Subject Matter Expert survey**.
+
         - title: Psychology Teaching Assistant
           company: University of Otago
           company_url: ''
