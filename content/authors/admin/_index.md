@@ -1,6 +1,6 @@
 ---
 title: Liam Kettle
-role: PhD Candidate
+role: UX & Human Factors Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests: []
