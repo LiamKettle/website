@@ -1,6 +1,6 @@
 ---
 title: Liam Kettle
-role: UX & Human Factors Researcher
+role: UX & Human Factors
 avatar_filename: avatar.jpg
 bio: null
 interests: []
@@ -21,7 +21,7 @@ social:
       header: false
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing
+    link: uploads/resume.pdf
 organizations:
   - name: George Mason University
     url: https://humanfactors.gmu.edu/
