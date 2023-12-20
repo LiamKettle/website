@@ -20,5 +20,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-11-17T23:07:59.060Z
-doi: https://doi.org/10.1155/2023/9009791
+doi: 10.1155/2023/9009791
 ---
