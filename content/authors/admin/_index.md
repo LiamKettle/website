@@ -22,7 +22,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing
-    # link: uploads/resume.pdf
 organizations:
   - name: George Mason University
     url: https://humanfactors.gmu.edu/
