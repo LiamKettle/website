@@ -5,6 +5,9 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Madeleine M. McCarty
+  - Kassidy L. Simpson
+  - Yi-Ching Lee
 doi: https://doi.org/10.1155/2023/9009791
 publication: Human Behavior and Emerging Technologies
 abstract: "As vehicle automation capabilities increase, driving control shifts
@@ -34,10 +37,12 @@ abstract: "As vehicle automation capabilities increase, driving control shifts
 draft: false
 featured: true
 tags:
-  - Transportation
+  - Autonomous Vehicles
+  - Responsibility Assignment
+  - Trust
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-12-20T21:14:12.178Z
+date: 2023-11-17T21:14:12.178Z
 ---
