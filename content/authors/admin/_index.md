@@ -50,11 +50,11 @@ email: lkettle@gmu.edu
 :wave: Welcome! I'm a **UX** and **Human Factors Researcher** currently pursuing a PhD in Human Factors and Applied Cognition at George Mason University. I am passionate about accessible communication and enhancing system transparency with dedication to both qualitative and quantitative end-to-end research designs.
 
 My research diverges into three domains:
-* :oncoming_automobile: Transparent vehicle-human communication
+  :oncoming_automobile: Transparent vehicle-human communication
 
-* :heart: Accessible well-being AI chatbots
+  :heart: Accessible well-being AI chatbots
 
-* :iphone: Enhancing product design
+  :iphone: Enhancing product design
 
 You can find the most recent version of my [resume here](https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing)
 {style="text-align: justify;"}
