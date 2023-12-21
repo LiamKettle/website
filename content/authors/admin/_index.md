@@ -47,5 +47,7 @@ highlight_name: true
 first_name: Liam
 email: lkettle@gmu.edu
 ---
-:wave: Welcome! I'm a PhD Candidate in the Human Factors and Applied Cognition PhD Program at George Mason University. My current research focuses on exploring and evaluating in-vehicle interfaces and  communication systems in autonomous vehicles. I am a mixed-methods researcher with both qualitative and quantitative end-to-end research experiences. You can find the most recent version of my [resume here](https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing)
+:wave: Welcome! I'm a **UX** and **human factors researcher** currently pursuing a PhD in Human Factors and Applied Cognition at George Mason University. My research focuses on understanding user-centric perceptions and attitudes across surface transportation, well-being, AI, and product design. I am passionate about accessible communication and enhancing system transparency with dedication to both qualitative and quantitative end-to-end research designs.
+
+You can find the most recent version of my [resume here](https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing)
 {style="text-align: justify;"}
