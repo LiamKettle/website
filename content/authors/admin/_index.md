@@ -55,9 +55,12 @@ Accessible well-being chatbots
 In-vehicle advanced communication systems
 
 My research diverges into three domains:
-:oncoming_automobile: Transportation
-:heart: Healthcare
-:iphone: Product Design
+
+:oncoming_automobile: Transparent vehicle-human communication
+
+:heart: Accessible well-being chatbots
+
+:iphone: Enhancing product design
 
 You can find the most recent version of my [resume here](https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing)
 {style="text-align: justify;"}
