@@ -52,7 +52,7 @@ email: lkettle@gmu.edu
 My research diverges into three domains: <br>
 :oncoming_automobile: Transparent vehicle-human communication <br>
 :heart: Accessible well-being AI chatbots <br>
-:iphone:  Enhancing product design
+:iphone:              Enhancing       product design
 
 You can find the most recent version of my [resume here](https://drive.google.com/file/d/1e_vVBsVcoqwJyHVlaq0QHp6yDryrn72l/view?usp=sharing)
 {style="text-align: justify;"}
