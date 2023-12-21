@@ -72,7 +72,7 @@ sections:
               * Taught over 70 undergraduate students across 3 class laboratories, graded 100% of student assignments, and provided constructive feedback for students.
               * Evaluated over 50 novel system designs across various applications of Human Factors and provided recommendations for future accident analyses.
     design:
-      columns: '2'
+      columns: '1'
       
   # - block: collection
   #   id: posts
