@@ -47,7 +47,7 @@ highlight_name: true
 first_name: Liam
 email: lkettle@gmu.edu
 ---
-:wave: Welcome! I'm a **UX** and **human factors researcher** currently pursuing a PhD in Human Factors and Applied Cognition at George Mason University. I am passionate about accessible communication and enhancing system transparency with dedication to both qualitative and quantitative end-to-end research designs.
+:wave: Welcome! I'm a **UX** and **Human Factors Researcher** currently pursuing a PhD in Human Factors and Applied Cognition at George Mason University. I am passionate about accessible communication and enhancing system transparency with dedication to both qualitative and quantitative end-to-end research designs.
 
 My research focuses on understanding user-centric perceptions and attitudes across surface transportation, well-being, AI, and product design. 
 
@@ -56,9 +56,12 @@ In-vehicle advanced communication systems
 
 My research diverges into three domains:
 
+
 :oncoming_automobile: Transparent vehicle-human communication
 
+
 :heart: Accessible well-being chatbots
+
 
 :iphone: Enhancing product design
 
