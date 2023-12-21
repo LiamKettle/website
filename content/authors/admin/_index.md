@@ -1,6 +1,6 @@
 ---
 title: Liam Kettle
-role: UX & Human Factors
+role: UX & Human Factors Researcher
 avatar_filename: avatar.jpg
 bio: null
 interests: []
