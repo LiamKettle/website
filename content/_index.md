@@ -33,11 +33,11 @@ sections:
           date_start: '2020-08-01'
           date_end: ''
           description: |2- 
-              * Published strategic recommendations to improve accessibility, communication style, and user experiences of mental health AI chatbots via parallel studies analyzing 19 interviews with **cognitive walkthroughs** and over 1,500 comments from online public forums.
-              * Enhanced driver safety awareness by advocating 29 key recommendations for effective vehicle-human communication to industry, government, and academic stakeholders through a **systematic review** and **thematic analysis** of 8500+ responses.
-              * Increased potential for product growth by presenting actionable recommendations for design concepts to external stakeholders through **task, competitor**, and **heuristic analysis**, 5+ **user interviews**, and iterative **prototyping** to explore users' behaviors and motivations.
-              * Enabled research growth through the management and **mentoring of 20+ researchers** over 7 projects through all phases of research, from study design (literature reviews and planning), data collection (in-person and online recruitment), analysis (thematic analysis, ANOVA, regression), and report writing.
-              * Published 5+ articles incorporating **quantitative** (ANOVA, regression, psychometrics) and **qualitative** (thematic analysis) analyses from structured and unstructured surveys, performance metrics, and usability tests.
+              * **Enhanced driver safety awareness** through validating a vehicle communication framework involving AR and AI using surveys, A/B testing, semantic analysis, and thematic analysis of 8500+ responses.
+              * **Analyzed demographic distinctions** in trust and social perceptions of autonomous vehicles and social robots through ANOVA and psychometric analysis of surveys.
+              * **Increased potential for user engagement** by creating a novel rewards program for a driving application through user interviews, card sorting, competitor analysis, journey mapping, and a novel tournament-style rewards prioritization.
+              * **Published strategic recommendations** to improve accessibility and UX of well-being chatbots by analyzing 19 interviews with cognitive walkthroughs and data mining of 60k+ comments from online public forums.
+              * **Enabled research growth** through the management and mentoring of 20+ researchers over 7 projects through all phases of research, from study design (literature reviews and planning), data collection (in-person and online recruitment), analysis (thematic analysis, ANOVA, regression), and report writing.
         - title: Research Associate
           company: George Mason University
           company_url: ''
@@ -46,9 +46,9 @@ sections:
           date_start: '2023-05-25'
           date_end: '2023-08-05'
           description: |2- 
-              * Enhanced research protocol effectiveness by advocating areas for improvement to stakeholders towards creating a novel testbed for human-machine teaming in space operations.
-              * Strengthened support for securing future grants towards human-machine teaming through successful implementation of proof-of-concept experimental research.
-              * Collaborated with the United States Air Force Academy and mentored 2 cadets in end-to-end research leading to their successful stakeholder presentation and conference submission.
+              * **Enhanced research protocol effectiveness** by advocating areas for improvement to stakeholders towards creating a novel testbed for human-machine teaming in space operations.
+              * **Strengthened support for securing future grants** towards human-machine teaming through successful implementation of proof-of-concept experimental research.
+              * **Collaborated with the United States Air Force Academy** and mentored 2 cadets in end-to-end research leading to their successful stakeholder presentation and conference submission.
 
         - title: Researcher
           company: University of Otago
@@ -58,19 +58,19 @@ sections:
           date_start: '2018-01-01'
           date_end: '2020-05-25'
           description: |2-
-              * Enhanced road safety understanding of youth driver risk factors through the development of driving simulations coupled with SPSS **regression analysis** on survey data of 100+ participants.
-              * Advocated policy changes and safety initiatives at rail level crossings through systematically identifying 40+ crash contributing factors at rail level crossings across New Zealand and Australia via **thematic analysis** of investigation reports and **Subject Matter Expert survey**.
+              * **Enhanced road safety understanding** of youth driver risk factors through the development of driving simulations coupled with SPSS regression analysis on survey data of 100+ participants.
+              * **Advocated policy changes and safety initiatives** at rail level crossings through systematically identifying 40+ crash contributing factors at rail level crossings across New Zealand and Australia via thematic analysis of investigation reports and Subject Matter Expert survey.
 
-        - title: Psychology Teaching Assistant
-          company: University of Otago
-          company_url: ''
-          company_logo: otago-2
-          location: Otago, New Zealand
-          date_start: '2018-01-25'
-          date_end: '2020-05-25'
-          description: |2-
-              * Taught over 70 undergraduate students across 3 class laboratories, graded 100% of student assignments, and provided constructive feedback for students.
-              * Evaluated over 50 novel system designs across various applications of Human Factors and provided recommendations for future accident analyses.
+        # - title: Psychology Teaching Assistant
+        #   company: University of Otago
+        #   company_url: ''
+        #   company_logo: otago-2
+        #   location: Otago, New Zealand
+        #   date_start: '2018-01-25'
+        #   date_end: '2020-05-25'
+        #   description: |2-
+        #       * Taught over 70 undergraduate students across 3 class laboratories, graded 100% of student assignments, and provided constructive feedback for students.
+        #       * Evaluated over 50 novel system designs across various applications of Human Factors and provided recommendations for future accident analyses.
     design:
       columns: '2'
       
