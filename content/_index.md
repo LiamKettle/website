@@ -59,7 +59,7 @@ sections:
           company_logo: GMU
           location: Fairfax, VA
           date_start: '2020-08-01'
-          date_end: ''
+          date_end: '2024-06-28'
           description: |2- 
               * **Enhanced driver safety awareness** through validating a vehicle communication framework involving AR and AI using surveys, A/B testing, semantic analysis, and thematic analysis of 8500+ responses.
               * **Analyzed demographic distinctions** in trust and social perceptions of autonomous vehicles and social robots through ANOVA and psychometric analysis of surveys.
